@@ -1,0 +1,3118 @@
+{
+  "CEG": [
+    {
+      "manager": "BlackRock",
+      "logo": "/assets/institutions/blackrock.png",
+      "shares": 25882851,
+      "ownershipPct": 7.3613,
+      "reportedValue": 6574761878,
+      "changeShares": 1326881,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003985/0002012383-26-003985-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003238/0002012383-26-003238-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Capital Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 21803968,
+      "ownershipPct": 6.20123,
+      "reportedValue": 5538643951,
+      "changeShares": 766421,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001711/0002100119-26-001711-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001527/0002100119-26-001527-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "State Street",
+      "logo": "/assets/institutions/state-street.png",
+      "shares": 20405215,
+      "ownershipPct": 5.80342,
+      "reportedValue": 5183332714,
+      "changeShares": 993579,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000747/0000093751-26-000747-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000507/0000093751-26-000507-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Portfolio Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 16382645,
+      "ownershipPct": 4.65936,
+      "reportedValue": 4161519483,
+      "changeShares": 550754,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001150/0002100121-26-001150-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001018/0002100121-26-001018-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "Capital International Investors",
+      "logo": "/energy/logos/capital-group.png",
+      "shares": 14414771,
+      "ownershipPct": 4.09968,
+      "reportedValue": 3664193133,
+      "changeShares": 1757622,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1562230/000156223026000136/0001562230-26-000136-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1562230/000156223026000107/0001562230-26-000107-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "ECP ControlCo",
+      "logo": "/energy/logos/ecp.png",
+      "shares": 14183722,
+      "ownershipPct": 4.03397,
+      "reportedValue": 3602949062,
+      "changeShares": 0,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1707921/000110465926128009/0001104659-26-128009-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1707921/000110465926128067/0001104659-26-128067-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "Invesco",
+      "logo": "/assets/institutions/invesco.png",
+      "shares": 10839412,
+      "ownershipPct": 3.08282,
+      "reportedValue": 2753427361,
+      "changeShares": -270490,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000462/0000914208-26-000462-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000343/0000914208-26-000343-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "Morgan Stanley",
+      "logo": "/assets/institutions/morgan-stanley.png",
+      "shares": 9472726,
+      "ownershipPct": 2.69412,
+      "reportedValue": 2406262684,
+      "changeShares": 422171,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000309/0000895421-26-000309-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000243/0000895421-26-000243-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "Geode Capital Management",
+      "logo": "/energy/logos/geode.png",
+      "shares": 7816576,
+      "ownershipPct": 2.2231,
+      "reportedValue": 1976848545,
+      "changeShares": 300722,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-06",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000012/0001214717-26-000012-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000008/0001214717-26-000008-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fidelity Investments (FMR)",
+      "logo": "/energy/logos/fidelity.png",
+      "shares": 6303287,
+      "ownershipPct": 1.79271,
+      "reportedValue": 1601161143,
+      "changeShares": -235314,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/0000315066-26-002964-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002260/0000315066-26-002260-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "Capital World Investors",
+      "logo": "/energy/logos/capital-group.png",
+      "shares": 4960282,
+      "ownershipPct": 1.41075,
+      "reportedValue": 1260455331,
+      "changeShares": 522067,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1422849/000142284926000169/0001422849-26-000169-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1422849/000142284926000113/0001422849-26-000113-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "Goldman Sachs",
+      "logo": "/assets/institutions/goldman-sachs.png",
+      "shares": 2647195,
+      "ownershipPct": 0.75288,
+      "reportedValue": 672440347,
+      "changeShares": -746035,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000647/0000886982-26-000647-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000519/0000886982-26-000519-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    },
+    {
+      "manager": "JPMorgan Chase",
+      "logo": "/energy/logos/jpmorgan.png",
+      "shares": 2489068,
+      "ownershipPct": 0.70791,
+      "reportedValue": 658558142,
+      "changeShares": 382050,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000404/0000019617-26-000404-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000325/0000019617-26-000325-index.html"
+      },
+      "denominatorShares": 351607000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+      }
+    }
+  ],
+  "VST": [
+    {
+      "manager": "BlackRock",
+      "logo": "/assets/institutions/blackrock.png",
+      "shares": 28759577,
+      "ownershipPct": 8.59137,
+      "reportedValue": 3978887471,
+      "changeShares": -304888,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003985/0002012383-26-003985-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003238/0002012383-26-003238-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Capital Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 21339832,
+      "ownershipPct": 6.37486,
+      "reportedValue": 2952365757,
+      "changeShares": -54026,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001711/0002100119-26-001711-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001527/0002100119-26-001527-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "State Street",
+      "logo": "/assets/institutions/state-street.png",
+      "shares": 17325257,
+      "ownershipPct": 5.17558,
+      "reportedValue": 2396949306,
+      "changeShares": 474805,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000747/0000093751-26-000747-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000507/0000093751-26-000507-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Portfolio Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 16939727,
+      "ownershipPct": 5.06041,
+      "reportedValue": 2343611230,
+      "changeShares": 436,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001150/0002100121-26-001150-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001018/0002100121-26-001018-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fidelity Investments (FMR)",
+      "logo": "/energy/logos/fidelity.png",
+      "shares": 11980078,
+      "ownershipPct": 3.57882,
+      "reportedValue": 1657443817,
+      "changeShares": -2180124,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/0000315066-26-002964-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002260/0000315066-26-002260-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "Morgan Stanley",
+      "logo": "/assets/institutions/morgan-stanley.png",
+      "shares": 9465737,
+      "ownershipPct": 2.82771,
+      "reportedValue": 1309584994,
+      "changeShares": 585007,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000309/0000895421-26-000309-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000243/0000895421-26-000243-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "Geode Capital Management",
+      "logo": "/energy/logos/geode.png",
+      "shares": 9076089,
+      "ownershipPct": 2.71131,
+      "reportedValue": 1250886102,
+      "changeShares": 38694,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-06",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000012/0001214717-26-000012-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000008/0001214717-26-000008-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "UBS Group",
+      "logo": "/assets/institutions/ubs.png",
+      "shares": 5483360,
+      "ownershipPct": 1.63805,
+      "reportedValue": 758622856,
+      "changeShares": 84859,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000121/0001610520-26-000121-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000103/0001610520-26-000103-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "Bank of America",
+      "logo": "/assets/institutions/bank-of-america.png",
+      "shares": 3885897,
+      "ownershipPct": 1.16084,
+      "reportedValue": 537613852,
+      "changeShares": 933401,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000589/0000070858-26-000589-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000442/0000070858-26-000442-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "Invesco",
+      "logo": "/assets/institutions/invesco.png",
+      "shares": 3801684,
+      "ownershipPct": 1.13568,
+      "reportedValue": 525962995,
+      "changeShares": 87849,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000462/0000914208-26-000462-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000343/0000914208-26-000343-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "JPMorgan Chase",
+      "logo": "/energy/logos/jpmorgan.png",
+      "shares": 2903248,
+      "ownershipPct": 0.86729,
+      "reportedValue": 408864760,
+      "changeShares": -349633,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000404/0000019617-26-000404-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000325/0000019617-26-000325-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "Goldman Sachs",
+      "logo": "/assets/institutions/goldman-sachs.png",
+      "shares": 2785067,
+      "ownershipPct": 0.83198,
+      "reportedValue": 385314028,
+      "changeShares": -1957257,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000647/0000886982-26-000647-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000519/0000886982-26-000519-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    },
+    {
+      "manager": "Capital World Investors",
+      "logo": "/energy/logos/capital-group.png",
+      "shares": 2579173,
+      "ownershipPct": 0.77048,
+      "reportedValue": 356828585,
+      "changeShares": 4913,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1422849/000142284926000169/0001422849-26-000169-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1422849/000142284926000113/0001422849-26-000113-index.html"
+      },
+      "denominatorShares": 334749790,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      }
+    }
+  ],
+  "GEV": [
+    {
+      "manager": "BlackRock",
+      "logo": "/assets/institutions/blackrock.png",
+      "shares": 21098595,
+      "ownershipPct": 7.97145,
+      "reportedValue": 20054004351,
+      "changeShares": -665385,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003985/0002012383-26-003985-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003238/0002012383-26-003238-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Capital Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 17435811,
+      "ownershipPct": 6.58758,
+      "reportedValue": 16572563997,
+      "changeShares": -116189,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001711/0002100119-26-001711-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001527/0002100119-26-001527-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fidelity Investments (FMR)",
+      "logo": "/energy/logos/fidelity.png",
+      "shares": 14765647,
+      "ownershipPct": 5.57874,
+      "reportedValue": 14034600418,
+      "changeShares": -1384852,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/0000315066-26-002964-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002260/0000315066-26-002260-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "State Street",
+      "logo": "/assets/institutions/state-street.png",
+      "shares": 11700250,
+      "ownershipPct": 4.42058,
+      "reportedValue": 11120970623,
+      "changeShares": -65090,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000747/0000093751-26-000747-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000507/0000093751-26-000507-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "Geode Capital Management",
+      "logo": "/energy/logos/geode.png",
+      "shares": 6430717,
+      "ownershipPct": 2.42965,
+      "reportedValue": 6097725024,
+      "changeShares": 83729,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-06",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000012/0001214717-26-000012-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000008/0001214717-26-000008-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "Morgan Stanley",
+      "logo": "/assets/institutions/morgan-stanley.png",
+      "shares": 5486648,
+      "ownershipPct": 2.07296,
+      "reportedValue": 5215007204,
+      "changeShares": -229311,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000309/0000895421-26-000309-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000243/0000895421-26-000243-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "Capital World Investors",
+      "logo": "/energy/logos/capital-group.png",
+      "shares": 5119879,
+      "ownershipPct": 1.93439,
+      "reportedValue": 4866394108,
+      "changeShares": 112474,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1422849/000142284926000169/0001422849-26-000169-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1422849/000142284926000113/0001422849-26-000113-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fisher Asset Management",
+      "logo": "/energy/logos/fisher.png",
+      "shares": 4921063,
+      "ownershipPct": 1.85927,
+      "reportedValue": 4677421867,
+      "changeShares": 1361584,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-06",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/850529/000085052926000009/0000850529-26-000009-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/850529/000085052926000006/0000850529-26-000006-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Portfolio Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 4775816,
+      "ownershipPct": 1.80439,
+      "reportedValue": 4539365350,
+      "changeShares": 51858,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001150/0002100121-26-001150-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001018/0002100121-26-001018-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "JPMorgan Chase",
+      "logo": "/energy/logos/jpmorgan.png",
+      "shares": 3765439,
+      "ownershipPct": 1.42265,
+      "reportedValue": 3624199459,
+      "changeShares": -2487866,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000404/0000019617-26-000404-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000325/0000019617-26-000325-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "Goldman Sachs",
+      "logo": "/assets/institutions/goldman-sachs.png",
+      "shares": 2622167,
+      "ownershipPct": 0.9907,
+      "reportedValue": 2492343997,
+      "changeShares": -319014,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000647/0000886982-26-000647-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000519/0000886982-26-000519-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "Bank of America",
+      "logo": "/assets/institutions/bank-of-america.png",
+      "shares": 2434689,
+      "ownershipPct": 0.91987,
+      "reportedValue": 2314147723,
+      "changeShares": -86132,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000589/0000070858-26-000589-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000442/0000070858-26-000442-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    },
+    {
+      "manager": "Capital International Investors",
+      "logo": "/energy/logos/capital-group.png",
+      "shares": 2394244,
+      "ownershipPct": 0.90459,
+      "reportedValue": 2276446706,
+      "changeShares": 981774,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1562230/000156223026000136/0001562230-26-000136-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1562230/000156223026000107/0001562230-26-000107-index.html"
+      },
+      "denominatorShares": 264677066,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+      }
+    }
+  ],
+  "CCJ": [
+    {
+      "manager": "Mirae Asset Global ETFs",
+      "logo": "/energy/logos/mirae.png",
+      "shares": 15357576,
+      "ownershipPct": 3.52616,
+      "reportedValue": 1334606587,
+      "changeShares": -192488,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1705339/000090514826004850/0000905148-26-004850-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1705339/000090514826003698/0000905148-26-003698-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "Capital World Investors",
+      "logo": "/energy/logos/capital-group.png",
+      "shares": 12893567,
+      "ownershipPct": 2.96041,
+      "reportedValue": 1117736667,
+      "changeShares": -471539,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1422849/000142284926000169/0001422849-26-000169-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1422849/000142284926000113/0001422849-26-000113-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Capital Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 12087604,
+      "ownershipPct": 2.77536,
+      "reportedValue": 1047934829,
+      "changeShares": 71800,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001711/0002100119-26-001711-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001527/0002100119-26-001527-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "Royal Bank of Canada",
+      "logo": "/energy/logos/rbc.png",
+      "shares": 11396637,
+      "ownershipPct": 2.61671,
+      "reportedValue": 987746000,
+      "changeShares": 486307,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1000275/000114036126044123/0001140361-26-044123-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1000275/000114036126044708/0001140361-26-044708-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "Bank of Montreal",
+      "logo": "/energy/logos/bmo.png",
+      "shares": 7903994,
+      "ownershipPct": 1.81479,
+      "reportedValue": 685279169,
+      "changeShares": 540627,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-09",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/927971/000092797126000111/0000927971-26-000111-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/927971/000092797126000090/0000927971-26-000090-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "Bank of America",
+      "logo": "/assets/institutions/bank-of-america.png",
+      "shares": 7561574,
+      "ownershipPct": 1.73617,
+      "reportedValue": 655361646,
+      "changeShares": 340901,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000589/0000070858-26-000589-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000442/0000070858-26-000442-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "Fidelity Investments (FMR)",
+      "logo": "/energy/logos/fidelity.png",
+      "shares": 5621877,
+      "ownershipPct": 1.2908,
+      "reportedValue": 487330008,
+      "changeShares": -2354809,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/0000315066-26-002964-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002260/0000315066-26-002260-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "Morgan Stanley",
+      "logo": "/assets/institutions/morgan-stanley.png",
+      "shares": 5044245,
+      "ownershipPct": 1.15818,
+      "reportedValue": 437184929,
+      "changeShares": -167323,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000309/0000895421-26-000309-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000243/0000895421-26-000243-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "BlackRock",
+      "logo": "/assets/institutions/blackrock.png",
+      "shares": 3608760,
+      "ownershipPct": 0.82858,
+      "reportedValue": 312771179,
+      "changeShares": -132566,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003985/0002012383-26-003985-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003238/0002012383-26-003238-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "Goldman Sachs",
+      "logo": "/assets/institutions/goldman-sachs.png",
+      "shares": 2905441,
+      "ownershipPct": 0.6671,
+      "reportedValue": 251814548,
+      "changeShares": -242605,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000647/0000886982-26-000647-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000519/0000886982-26-000519-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "JPMorgan Chase",
+      "logo": "/energy/logos/jpmorgan.png",
+      "shares": 2437178,
+      "ownershipPct": 0.55959,
+      "reportedValue": 211742219,
+      "changeShares": -1761445,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000404/0000019617-26-000404-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000325/0000019617-26-000325-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    },
+    {
+      "manager": "State Street",
+      "logo": "/assets/institutions/state-street.png",
+      "shares": 8620,
+      "ownershipPct": 0.00198,
+      "reportedValue": 747095,
+      "changeShares": 0,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000747/0000093751-26-000747-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000507/0000093751-26-000507-index.html"
+      },
+      "denominatorShares": 435532978,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+      }
+    }
+  ],
+  "TLN": [
+    {
+      "manager": "BlackRock",
+      "logo": "/assets/institutions/blackrock.png",
+      "shares": 4312006,
+      "ownershipPct": 9.11306,
+      "reportedValue": 1348321156,
+      "changeShares": -43908,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003985/0002012383-26-003985-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003238/0002012383-26-003238-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "Rubric Capital Management",
+      "logo": "/energy/logos/rubric.png",
+      "shares": 3602171,
+      "ownershipPct": 7.61288,
+      "reportedValue": 1126362850,
+      "changeShares": 0,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1687509/000110465926128244/0001104659-26-128244-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1687509/000110465926097098/0001104659-26-097098-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "MFN Partners Management",
+      "logo": null,
+      "shares": 3249121,
+      "ownershipPct": 6.86674,
+      "reportedValue": 1015967645,
+      "changeShares": 249121,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1732811/000090445426000609/0000904454-26-000609-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1732811/000090445426000440/0000904454-26-000440-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "ECP ControlCo",
+      "logo": "/energy/logos/ecp.png",
+      "shares": 2399998,
+      "ownershipPct": 5.07219,
+      "reportedValue": 750455375,
+      "changeShares": 0,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1707921/000110465926128009/0001104659-26-128009-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1707921/000110465926128067/0001104659-26-128067-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Portfolio Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 2234227,
+      "ownershipPct": 4.72185,
+      "reportedValue": 698620441,
+      "changeShares": 67249,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001150/0002100121-26-001150-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001018/0002100121-26-001018-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Capital Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 2117079,
+      "ownershipPct": 4.47427,
+      "reportedValue": 661989433,
+      "changeShares": 63590,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001711/0002100119-26-001711-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001527/0002100119-26-001527-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fred Alger Management",
+      "logo": "/assets/institutions/alger.png",
+      "shares": 1776393,
+      "ownershipPct": 3.75426,
+      "reportedValue": 555460327,
+      "changeShares": 229920,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/3520/000119312526463608/0001193125-26-463608-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/3520/000119312526352250/0001193125-26-352250-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "State Street",
+      "logo": "/assets/institutions/state-street.png",
+      "shares": 1378301,
+      "ownershipPct": 2.91292,
+      "reportedValue": 430980940,
+      "changeShares": -1598,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000747/0000093751-26-000747-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000507/0000093751-26-000507-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "Sachem Head Capital Management",
+      "logo": "/energy/logos/sachem-head.png",
+      "shares": 1157500,
+      "ownershipPct": 2.44628,
+      "reportedValue": 361938675,
+      "changeShares": -212500,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1582090/000090266426004536/0000902664-26-004536-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1582090/000090266426003505/0000902664-26-003505-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "Morgan Stanley",
+      "logo": "/assets/institutions/morgan-stanley.png",
+      "shares": 452201,
+      "ownershipPct": 0.95569,
+      "reportedValue": 141399058,
+      "changeShares": 28869,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000309/0000895421-26-000309-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000243/0000895421-26-000243-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fidelity Investments (FMR)",
+      "logo": "/energy/logos/fidelity.png",
+      "shares": 349409,
+      "ownershipPct": 0.73845,
+      "reportedValue": 109256840,
+      "changeShares": -43328,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/0000315066-26-002964-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002260/0000315066-26-002260-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "Goldman Sachs",
+      "logo": "/assets/institutions/goldman-sachs.png",
+      "shares": 345843,
+      "ownershipPct": 0.73091,
+      "reportedValue": 108141596,
+      "changeShares": -137155,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000647/0000886982-26-000647-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000519/0000886982-26-000519-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    },
+    {
+      "manager": "JPMorgan Chase",
+      "logo": "/energy/logos/jpmorgan.png",
+      "shares": 109088,
+      "ownershipPct": 0.23055,
+      "reportedValue": 35145110,
+      "changeShares": -29019,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000404/0000019617-26-000404-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000325/0000019617-26-000325-index.html"
+      },
+      "denominatorShares": 47316772,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+      }
+    }
+  ],
+  "BE": [
+    {
+      "manager": "BlackRock",
+      "logo": "/assets/institutions/blackrock.png",
+      "shares": 24596598,
+      "ownershipPct": 8.32267,
+      "reportedValue": 6812765762,
+      "changeShares": 6154262,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003985/0002012383-26-003985-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003238/0002012383-26-003238-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Capital Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 18782962,
+      "ownershipPct": 6.35553,
+      "reportedValue": 5202504815,
+      "changeShares": 6700515,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001711/0002100119-26-001711-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001527/0002100119-26-001527-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "Ameriprise Financial",
+      "logo": "/energy/logos/ameriprise.png",
+      "shares": 18428848,
+      "ownershipPct": 6.23571,
+      "reportedValue": 5104248317,
+      "changeShares": 294273,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/820027/000119312526463125/0001193125-26-463125-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/820027/000119312526351426/0001193125-26-351426-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Portfolio Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 13338983,
+      "ownershipPct": 4.51347,
+      "reportedValue": 3694631511,
+      "changeShares": 789380,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001150/0002100121-26-001150-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001018/0002100121-26-001018-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "State Street",
+      "logo": "/assets/institutions/state-street.png",
+      "shares": 12400964,
+      "ownershipPct": 4.19608,
+      "reportedValue": 3434819009,
+      "changeShares": 6085533,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000747/0000093751-26-000747-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000507/0000093751-26-000507-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "Morgan Stanley",
+      "logo": "/assets/institutions/morgan-stanley.png",
+      "shares": 7745409,
+      "ownershipPct": 2.62079,
+      "reportedValue": 2145324163,
+      "changeShares": 431994,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000309/0000895421-26-000309-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000243/0000895421-26-000243-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "Geode Capital Management",
+      "logo": "/energy/logos/geode.png",
+      "shares": 7053417,
+      "ownershipPct": 2.38664,
+      "reportedValue": 1958790472,
+      "changeShares": 3259971,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-06",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000012/0001214717-26-000012-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000008/0001214717-26-000008-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "JPMorgan Chase",
+      "logo": "/energy/logos/jpmorgan.png",
+      "shares": 5367402,
+      "ownershipPct": 1.81615,
+      "reportedValue": 1563256541,
+      "changeShares": -2718491,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000404/0000019617-26-000404-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000325/0000019617-26-000325-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fidelity Investments (FMR)",
+      "logo": "/energy/logos/fidelity.png",
+      "shares": 4006407,
+      "ownershipPct": 1.35564,
+      "reportedValue": 1109694883,
+      "changeShares": 2031441,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/0000315066-26-002964-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002260/0000315066-26-002260-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "Capital World Investors",
+      "logo": "/energy/logos/capital-group.png",
+      "shares": 3110363,
+      "ownershipPct": 1.05244,
+      "reportedValue": 861508344,
+      "changeShares": 766605,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1422849/000142284926000169/0001422849-26-000169-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1422849/000142284926000113/0001422849-26-000113-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "UBS Group",
+      "logo": "/assets/institutions/ubs.png",
+      "shares": 2348782,
+      "ownershipPct": 0.79475,
+      "reportedValue": 650565639,
+      "changeShares": 443548,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000121/0001610520-26-000121-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000103/0001610520-26-000103-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "Wellington Management",
+      "logo": "/energy/logos/wellington.png",
+      "shares": 2327020,
+      "ownershipPct": 0.78739,
+      "reportedValue": 644537999,
+      "changeShares": 2058714,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/902219/000090221926000323/0000902219-26-000323-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/902219/000090221926000311/0000902219-26-000311-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    },
+    {
+      "manager": "Goldman Sachs",
+      "logo": "/assets/institutions/goldman-sachs.png",
+      "shares": 1185661,
+      "ownershipPct": 0.40119,
+      "reportedValue": 328404505,
+      "changeShares": -12764991,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000647/0000886982-26-000647-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000519/0000886982-26-000519-index.html"
+      },
+      "denominatorShares": 295537217,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+      }
+    }
+  ],
+  "OKLO": [
+    {
+      "manager": "Mirae Asset Global ETFs",
+      "logo": "/energy/logos/mirae.png",
+      "shares": 10161452,
+      "ownershipPct": 5.20668,
+      "reportedValue": 376176953,
+      "changeShares": 1225630,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1705339/000090514826004850/0000905148-26-004850-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1705339/000090514826003698/0000905148-26-003698-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "VanEck",
+      "logo": "/energy/logos/vaneck.png",
+      "shares": 8486312,
+      "ownershipPct": 4.34835,
+      "reportedValue": 314163271,
+      "changeShares": 573959,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/869178/000086917826000119/0000869178-26-000119-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/869178/000086917826000093/0000869178-26-000093-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "BlackRock",
+      "logo": "/assets/institutions/blackrock.png",
+      "shares": 8169943,
+      "ownershipPct": 4.18624,
+      "reportedValue": 302451302,
+      "changeShares": 857975,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003985/0002012383-26-003985-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003238/0002012383-26-003238-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Capital Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 7169351,
+      "ownershipPct": 3.67354,
+      "reportedValue": 265409374,
+      "changeShares": 630017,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001711/0002100119-26-001711-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001527/0002100119-26-001527-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Portfolio Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 6574025,
+      "ownershipPct": 3.3685,
+      "reportedValue": 243370406,
+      "changeShares": 148510,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001150/0002100121-26-001150-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001018/0002100121-26-001018-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "Morgan Stanley",
+      "logo": "/assets/institutions/morgan-stanley.png",
+      "shares": 4647598,
+      "ownershipPct": 2.38141,
+      "reportedValue": 172054097,
+      "changeShares": 1384720,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000309/0000895421-26-000309-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000243/0000895421-26-000243-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "State Street",
+      "logo": "/assets/institutions/state-street.png",
+      "shares": 2676409,
+      "ownershipPct": 1.37138,
+      "reportedValue": 99080661,
+      "changeShares": 298351,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000747/0000093751-26-000747-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000507/0000093751-26-000507-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "Geode Capital Management",
+      "logo": "/energy/logos/geode.png",
+      "shares": 2612897,
+      "ownershipPct": 1.33884,
+      "reportedValue": 96758654,
+      "changeShares": 248469,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-06",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000012/0001214717-26-000012-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000008/0001214717-26-000008-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "Goldman Sachs",
+      "logo": "/assets/institutions/goldman-sachs.png",
+      "shares": 1749064,
+      "ownershipPct": 0.89621,
+      "reportedValue": 64750362,
+      "changeShares": 600864,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000647/0000886982-26-000647-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000519/0000886982-26-000519-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "UBS Group",
+      "logo": "/assets/institutions/ubs.png",
+      "shares": 1739479,
+      "ownershipPct": 0.8913,
+      "reportedValue": 64395512,
+      "changeShares": -355674,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000121/0001610520-26-000121-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000103/0001610520-26-000103-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "Bank of America",
+      "logo": "/assets/institutions/bank-of-america.png",
+      "shares": 936608,
+      "ownershipPct": 0.47991,
+      "reportedValue": 34673234,
+      "changeShares": 344137,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000589/0000070858-26-000589-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000442/0000070858-26-000442-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "JPMorgan Chase",
+      "logo": "/energy/logos/jpmorgan.png",
+      "shares": 150142,
+      "ownershipPct": 0.07693,
+      "reportedValue": 5909915,
+      "changeShares": 6156,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000404/0000019617-26-000404-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000325/0000019617-26-000325-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fidelity Investments (FMR)",
+      "logo": "/energy/logos/fidelity.png",
+      "shares": 34323,
+      "ownershipPct": 0.01759,
+      "reportedValue": 1270630,
+      "changeShares": -248898,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/0000315066-26-002964-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002260/0000315066-26-002260-index.html"
+      },
+      "denominatorShares": 195161750,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+      }
+    }
+  ],
+  "ETN": [
+    {
+      "manager": "BlackRock",
+      "logo": "/assets/institutions/blackrock.png",
+      "shares": 30783855,
+      "ownershipPct": 7.92377,
+      "reportedValue": 13228130209,
+      "changeShares": 107910,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003985/0002012383-26-003985-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003238/0002012383-26-003238-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Capital Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 25427437,
+      "ownershipPct": 6.54503,
+      "reportedValue": 10926423953,
+      "changeShares": 63214,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001711/0002100119-26-001711-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001527/0002100119-26-001527-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "State Street",
+      "logo": "/assets/institutions/state-street.png",
+      "shares": 17428327,
+      "ownershipPct": 4.48606,
+      "reportedValue": 7490033931,
+      "changeShares": -51045,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000747/0000093751-26-000747-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000507/0000093751-26-000507-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "JPMorgan Chase",
+      "logo": "/energy/logos/jpmorgan.png",
+      "shares": 14606347,
+      "ownershipPct": 3.75968,
+      "reportedValue": 6328493230,
+      "changeShares": -2178763,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000404/0000019617-26-000404-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000325/0000019617-26-000325-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "Morgan Stanley",
+      "logo": "/assets/institutions/morgan-stanley.png",
+      "shares": 13027891,
+      "ownershipPct": 3.35338,
+      "reportedValue": 5598216880,
+      "changeShares": -222248,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000309/0000895421-26-000309-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000243/0000895421-26-000243-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "Bank of America",
+      "logo": "/assets/institutions/bank-of-america.png",
+      "shares": 10421191,
+      "ownershipPct": 2.68242,
+      "reportedValue": 4478090161,
+      "changeShares": -654857,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000589/0000070858-26-000589-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000442/0000070858-26-000442-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Portfolio Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 9512501,
+      "ownershipPct": 2.44852,
+      "reportedValue": 4087616805,
+      "changeShares": 108072,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001150/0002100121-26-001150-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001018/0002100121-26-001018-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "Geode Capital Management",
+      "logo": "/energy/logos/geode.png",
+      "shares": 9098774,
+      "ownershipPct": 2.34203,
+      "reportedValue": 3891938413,
+      "changeShares": 142055,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-06",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000012/0001214717-26-000012-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000008/0001214717-26-000008-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fidelity Investments (FMR)",
+      "logo": "/energy/logos/fidelity.png",
+      "shares": 8126004,
+      "ownershipPct": 2.09164,
+      "reportedValue": 3491824723,
+      "changeShares": -205527,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/0000315066-26-002964-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002260/0000315066-26-002260-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "Wellington Management",
+      "logo": "/energy/logos/wellington.png",
+      "shares": 5951526,
+      "ownershipPct": 1.53192,
+      "reportedValue": 2557430238,
+      "changeShares": -875740,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/902219/000090221926000323/0000902219-26-000323-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/902219/000090221926000311/0000902219-26-000311-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "Goldman Sachs",
+      "logo": "/assets/institutions/goldman-sachs.png",
+      "shares": 5141023,
+      "ownershipPct": 1.3233,
+      "reportedValue": 2209148945,
+      "changeShares": 106507,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000647/0000886982-26-000647-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000519/0000886982-26-000519-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "UBS Group",
+      "logo": "/assets/institutions/ubs.png",
+      "shares": 4614821,
+      "ownershipPct": 1.18786,
+      "reportedValue": 1983034733,
+      "changeShares": -628337,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000121/0001610520-26-000121-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1610520/000161052026000103/0001610520-26-000103-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    },
+    {
+      "manager": "Invesco",
+      "logo": "/assets/institutions/invesco.png",
+      "shares": 3309662,
+      "ownershipPct": 0.85191,
+      "reportedValue": 1422194832,
+      "changeShares": -257971,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000462/0000914208-26-000462-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000343/0000914208-26-000343-index.html"
+      },
+      "denominatorShares": 388500000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+      }
+    }
+  ],
+  "EQT": [
+    {
+      "manager": "BlackRock",
+      "logo": "/assets/institutions/blackrock.png",
+      "shares": 61564283,
+      "ownershipPct": 9.84167,
+      "reportedValue": 2989561555,
+      "changeShares": 1302387,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003985/0002012383-26-003985-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003238/0002012383-26-003238-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Capital Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 40914343,
+      "ownershipPct": 6.54057,
+      "reportedValue": 1986800496,
+      "changeShares": 50019,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001711/0002100119-26-001711-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001527/0002100119-26-001527-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "State Street",
+      "logo": "/assets/institutions/state-street.png",
+      "shares": 37905502,
+      "ownershipPct": 6.05958,
+      "reportedValue": 1840691177,
+      "changeShares": -1773747,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000747/0000093751-26-000747-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000507/0000093751-26-000507-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Portfolio Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 30912778,
+      "ownershipPct": 4.94172,
+      "reportedValue": 1501124500,
+      "changeShares": -1844879,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001150/0002100121-26-001150-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001018/0002100121-26-001018-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "Morgan Stanley",
+      "logo": "/assets/institutions/morgan-stanley.png",
+      "shares": 22930435,
+      "ownershipPct": 3.66566,
+      "reportedValue": 1113502143,
+      "changeShares": -1415112,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000309/0000895421-26-000309-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000243/0000895421-26-000243-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "Wellington Management",
+      "logo": "/energy/logos/wellington.png",
+      "shares": 19868823,
+      "ownershipPct": 3.17623,
+      "reportedValue": 964830045,
+      "changeShares": -2696656,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/902219/000090221926000323/0000902219-26-000323-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/902219/000090221926000311/0000902219-26-000311-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "Orbis Allan Gray",
+      "logo": "/assets/institutions/orbis.png",
+      "shares": 18427640,
+      "ownershipPct": 2.94584,
+      "reportedValue": 894846198,
+      "changeShares": 2721593,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1663865/000166386526000005/0001663865-26-000005-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1663865/000166386526000004/0001663865-26-000004-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "JPMorgan Chase",
+      "logo": "/energy/logos/jpmorgan.png",
+      "shares": 18338537,
+      "ownershipPct": 2.9316,
+      "reportedValue": 896387806,
+      "changeShares": -2203164,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000404/0000019617-26-000404-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000325/0000019617-26-000325-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "Geode Capital Management",
+      "logo": "/energy/logos/geode.png",
+      "shares": 17276107,
+      "ownershipPct": 2.76176,
+      "reportedValue": 835761507,
+      "changeShares": 249269,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-06",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000012/0001214717-26-000012-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000008/0001214717-26-000008-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "Invesco",
+      "logo": "/assets/institutions/invesco.png",
+      "shares": 12231532,
+      "ownershipPct": 1.95533,
+      "reportedValue": 593963195,
+      "changeShares": 2252257,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000462/0000914208-26-000462-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000343/0000914208-26-000343-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "Capital International Investors",
+      "logo": "/energy/logos/capital-group.png",
+      "shares": 7174945,
+      "ownershipPct": 1.14699,
+      "reportedValue": 348415652,
+      "changeShares": 28422,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1562230/000156223026000136/0001562230-26-000136-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1562230/000156223026000107/0001562230-26-000107-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "Goldman Sachs",
+      "logo": "/assets/institutions/goldman-sachs.png",
+      "shares": 3403685,
+      "ownershipPct": 0.54411,
+      "reportedValue": 165282979,
+      "changeShares": -3089457,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000647/0000886982-26-000647-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000519/0000886982-26-000519-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fidelity Investments (FMR)",
+      "logo": "/energy/logos/fidelity.png",
+      "shares": 2742472,
+      "ownershipPct": 0.43841,
+      "reportedValue": 133174418,
+      "changeShares": -25999,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/0000315066-26-002964-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002260/0000315066-26-002260-index.html"
+      },
+      "denominatorShares": 625547000,
+      "denominatorDate": "2026-09-30",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000058/eqt-20260930.htm"
+      }
+    }
+  ],
+  "WMB": [
+    {
+      "manager": "BlackRock",
+      "logo": "/assets/institutions/blackrock.png",
+      "shares": 108196820,
+      "ownershipPct": 8.65434,
+      "reportedValue": 7354137827,
+      "changeShares": -7303492,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003985/0002012383-26-003985-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2012383/000201238326003238/0002012383-26-003238-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Capital Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 80048097,
+      "ownershipPct": 6.40281,
+      "reportedValue": 5440869153,
+      "changeShares": 199944,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001711/0002100119-26-001711-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100119/000210011926001527/0002100119-26-001527-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "State Street",
+      "logo": "/assets/institutions/state-street.png",
+      "shares": 75274765,
+      "ownershipPct": 6.02101,
+      "reportedValue": 5116425777,
+      "changeShares": 3259259,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000747/0000093751-26-000747-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000507/0000093751-26-000507-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "Bank of America",
+      "logo": "/assets/institutions/bank-of-america.png",
+      "shares": 46731059,
+      "ownershipPct": 3.73788,
+      "reportedValue": 3176310079,
+      "changeShares": 2063235,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000589/0000070858-26-000589-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000442/0000070858-26-000442-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "Vanguard Portfolio Management",
+      "logo": "/assets/institutions/vanguard.png",
+      "shares": 43484852,
+      "ownershipPct": 3.47822,
+      "reportedValue": 2955665390,
+      "changeShares": -28887,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001150/0002100121-26-001150-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/2100121/000210012126001018/0002100121-26-001018-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "Wellington Management",
+      "logo": "/energy/logos/wellington.png",
+      "shares": 36867082,
+      "ownershipPct": 2.94889,
+      "reportedValue": 2505855564,
+      "changeShares": 3769874,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/902219/000090221926000323/0000902219-26-000323-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/902219/000090221926000311/0000902219-26-000311-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "Morgan Stanley",
+      "logo": "/assets/institutions/morgan-stanley.png",
+      "shares": 34315924,
+      "ownershipPct": 2.74483,
+      "reportedValue": 2332453509,
+      "changeShares": 2502419,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-13",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000309/0000895421-26-000309-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000243/0000895421-26-000243-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "Geode Capital Management",
+      "logo": "/energy/logos/geode.png",
+      "shares": 30189661,
+      "ownershipPct": 2.41478,
+      "reportedValue": 2043221184,
+      "changeShares": 278396,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-06",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000012/0001214717-26-000012-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1214717/000121471726000008/0001214717-26-000008-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "JPMorgan Chase",
+      "logo": "/energy/logos/jpmorgan.png",
+      "shares": 20869822,
+      "ownershipPct": 1.66932,
+      "reportedValue": 1432296033,
+      "changeShares": -509974,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000404/0000019617-26-000404-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000325/0000019617-26-000325-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "Invesco",
+      "logo": "/assets/institutions/invesco.png",
+      "shares": 15549793,
+      "ownershipPct": 1.24378,
+      "reportedValue": 1056919377,
+      "changeShares": -3739592,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-12",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000462/0000914208-26-000462-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000343/0000914208-26-000343-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "Royal Bank of Canada",
+      "logo": "/energy/logos/rbc.png",
+      "shares": 12502052,
+      "ownershipPct": 1.0,
+      "reportedValue": 849764000,
+      "changeShares": -806157,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1000275/000114036126044123/0001140361-26-044123-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/1000275/000114036126044708/0001140361-26-044708-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "Goldman Sachs",
+      "logo": "/assets/institutions/goldman-sachs.png",
+      "shares": 10237891,
+      "ownershipPct": 0.8189,
+      "reportedValue": 695869490,
+      "changeShares": -1275816,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-16",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000647/0000886982-26-000647-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000519/0000886982-26-000519-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    },
+    {
+      "manager": "Fidelity Investments (FMR)",
+      "logo": "/energy/logos/fidelity.png",
+      "shares": 3920186,
+      "ownershipPct": 0.31356,
+      "reportedValue": 266455067,
+      "changeShares": -518959,
+      "period": "2026-09-30",
+      "filedDate": "2026-11-10",
+      "source": {
+        "label": "SEC Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/0000315066-26-002964-index.html"
+      },
+      "previousSource": {
+        "label": "June 30, 2026 Form 13F",
+        "url": "https://www.sec.gov/Archives/edgar/data/315066/000031506626002260/0000315066-26-002260-index.html"
+      },
+      "denominatorShares": 1250202516,
+      "denominatorDate": "2026-10-29",
+      "denominatorSource": {
+        "label": "Issuer filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.vr-division-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.5rem;
+  padding-top: 1rem;
+  border-bottom: 1px solid var(--line);
+}
+.vr-division-nav a {
+  display: block;
+  padding: .55rem 0 .7rem;
+  margin-bottom: -1px;
+  border-bottom: 2px solid transparent;
+  color: #526158;
+  font-size: .875rem;
+  font-weight: 650;
+  text-decoration: none;
+}
+.vr-division-nav a:hover,
+.vr-division-nav a[aria-current="page"] {
+  color: #17241b;
+  border-bottom-color: #17241b;
+}

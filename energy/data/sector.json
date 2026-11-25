@@ -1,0 +1,2057 @@
+{
+  "asOf": "2026-11-25",
+  "methodology": "Financials use USD billions, with CAD billions for Cameco. Net income is attributable to common shareholders, equity holders or company owners as reported. Debt is outstanding borrowing at period end, before cash. Quarterly operating cash flow or capex comes from quarterly issuer reporting or subtracts the six-month total from the nine-month total. Illustrative free cash flow equals operating cash flow less disclosed cash capital expenditures. Issuer-defined adjusted free cash flow may differ. Growth compares like periods. A zero revenue denominator makes growth and margins unavailable. Valuation scenarios use analyst assumptions and produce illustrative USD share prices.",
+  "companies": {
+    "CEG": {
+      "name": "Constellation Energy",
+      "segment": "Nuclear & independent power",
+      "overview": "Operates a large U.S. nuclear fleet and sells power to wholesale and retail customers. The Calpine merger added natural gas and geothermal capacity in January 2026.",
+      "advantages": [
+        "Existing nuclear licenses and experienced operators",
+        "High output from a large, dispatchable nuclear fleet",
+        "Commercial power platform and diversified generation after Calpine"
+      ],
+      "risks": [
+        "Calpine integration and materially higher post-close borrowing",
+        "Unplanned outages, decommissioning and nuclear regulation",
+        "Regional power price, hedge settlement and tax-credit exposure"
+      ],
+      "marketShare": "Constellation reports about 10% of U.S. clean energy and 55 GW of capacity following Calpine. Its FY2025 output of 183 TWh was roughly 23% of U.S. nuclear generation, using the EIA's rounded 18% nuclear share of 4,429 TWh in utility-scale generation.",
+      "supplyConstraints": "New nuclear generation requires extensive capital and approvals. Restart timing depends on licensing, construction, equipment and grid readiness.",
+      "financialNote": "FY2025 ended before the Calpine acquisition. FY2024 operating cash flow is affected by how cash from receivables was classified. Q3 2026 adjusted operating EPS guidance was $12.50–$12.80.",
+      "financials": [
+        {
+          "period": "FY2024",
+          "periodType": "annual",
+          "revenueB": 23.568,
+          "netIncomeB": 3.749,
+          "operatingCashFlowB": -2.464,
+          "debtB": 8.412,
+          "capexB": 2.565,
+          "freeCashFlowB": -5.029,
+          "revenueGrowthPct": null,
+          "netMarginPct": 15.907162253903598,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1168165/000186827526000032/ceg-20251231.htm"
+          }
+        },
+        {
+          "period": "FY2025",
+          "periodType": "annual",
+          "revenueB": 25.533,
+          "netIncomeB": 2.319,
+          "operatingCashFlowB": 4.237,
+          "debtB": 8.992,
+          "capexB": 2.949,
+          "freeCashFlowB": 1.288,
+          "revenueGrowthPct": 8.337576374745414,
+          "netMarginPct": 9.08236399953002,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1168165/000186827526000032/ceg-20251231.htm"
+          }
+        },
+        {
+          "period": "Q3 2026",
+          "periodType": "quarter",
+          "revenueB": 9.55,
+          "netIncomeB": 1.835,
+          "operatingCashFlowB": 3.426,
+          "debtB": 23.387,
+          "capexB": 0.94,
+          "freeCashFlowB": 2.486,
+          "revenueGrowthPct": 45.357686453576875,
+          "netMarginPct": 19.21465968586387,
+          "currency": "USD",
+          "source": {
+            "label": "Q3 2026 financial statements",
+            "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+          },
+          "sources": [
+            {
+              "label": "Q3 2026 financial statements",
+              "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+            },
+            {
+              "label": "Q2 2026 interim statements for quarter cash flow",
+              "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000104/ceg-20260630.htm"
+            },
+            {
+              "label": "Q3 2026 reported results",
+              "url": "https://constellationenergy.gcs-web.com/static-files/6802c79e-14f1-4003-8a5c-0c95b65e4388"
+            }
+          ]
+        }
+      ],
+      "valuation": {
+        "method": "Adjusted EPS × P/E",
+        "unit": "USD/share",
+        "baseYear": 2026,
+        "baseMetric": 12.65,
+        "baseMetricLabel": "FY2026 adjusted operating EPS guidance midpoint",
+        "scenarios": {
+          "bear": {
+            "growthPct": 2,
+            "multiple": 14,
+            "reason": "Lower power margins and slower execution after Calpine",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 177.1
+              },
+              {
+                "year": 2027,
+                "price": 180.64
+              },
+              {
+                "year": 2028,
+                "price": 184.25
+              },
+              {
+                "year": 2029,
+                "price": 187.94
+              },
+              {
+                "year": 2030,
+                "price": 191.7
+              }
+            ]
+          },
+          "base": {
+            "growthPct": 8,
+            "multiple": 22,
+            "reason": "Contract growth and steady fleet output",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 278.3
+              },
+              {
+                "year": 2027,
+                "price": 300.56
+              },
+              {
+                "year": 2028,
+                "price": 324.61
+              },
+              {
+                "year": 2029,
+                "price": 350.58
+              },
+              {
+                "year": 2030,
+                "price": 378.62
+              }
+            ]
+          },
+          "bull": {
+            "growthPct": 15,
+            "multiple": 30,
+            "reason": "Stronger power contracts, timely execution and higher nuclear output",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 379.5
+              },
+              {
+                "year": 2027,
+                "price": 436.42
+              },
+              {
+                "year": 2028,
+                "price": 501.89
+              },
+              {
+                "year": 2029,
+                "price": 577.17
+              },
+              {
+                "year": 2030,
+                "price": 663.75
+              }
+            ]
+          }
+        },
+        "assumptions": "Price = starting per-share metric × (1 + annual scenario growth)^(year minus starting year) × scenario multiple. Growth and exit multiples are analyst assumptions. Price excludes dividends. Share-count changes are implicit in per-share growth.",
+        "disclaimer": "Illustrative analyst scenario. The model depends on the displayed assumptions and carries no probability weighting."
+      },
+      "sources": [
+        {
+          "label": "FY2025 annual report and FY2024 comparatives",
+          "url": "https://www.sec.gov/Archives/edgar/data/1168165/000186827526000032/ceg-20251231.htm"
+        },
+        {
+          "label": "Q3 2026 financial statements",
+          "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000119/ceg-20260930.htm"
+        },
+        {
+          "label": "Q2 2026 interim statements for quarter cash flow",
+          "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000104/ceg-20260630.htm"
+        },
+        {
+          "label": "Q3 2026 reported results",
+          "url": "https://constellationenergy.gcs-web.com/static-files/6802c79e-14f1-4003-8a5c-0c95b65e4388"
+        },
+        {
+          "label": "U.S. EIA 2025 electricity generation and fuel mix",
+          "url": "https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php"
+        }
+      ],
+      "logo": "/energy/logos/ceg.png"
+    },
+    "VST": {
+      "name": "Vistra",
+      "segment": "Nuclear, gas & competitive retail",
+      "overview": "Combines Texas-based retail electricity sales with nuclear, gas and other generation across multiple U.S. markets.",
+      "advantages": [
+        "Retail and generation positions can partially offset power-price exposure",
+        "Dispatchable generation in ERCOT and PJM",
+        "Long-lived nuclear assets that can support long-term power sales"
+      ],
+      "risks": [
+        "Merchant power and capacity prices",
+        "Hedge accounting and collateral requirements",
+        "Large debt load and acquired-asset integration"
+      ],
+      "marketShare": "Company-reported operating scale was about 44 GW of capacity and 5 million retail customers as of May 2026. Capacity and customer counts are measures of scale.",
+      "supplyConstraints": "Turbine lead times, nuclear refueling downtime and availability of transmission capacity can limit new supply. Summer and winter peaks raise reliability stakes.",
+      "financialNote": "Operating revenue includes realized and unrealized power-market effects. Debt includes separately presented receivables financing. Q3 2026 management guidance for ongoing adjusted FCF before growth was $4.3B–$4.7B.",
+      "financials": [
+        {
+          "period": "FY2024",
+          "periodType": "annual",
+          "revenueB": 17.224,
+          "netIncomeB": 2.467,
+          "operatingCashFlowB": 4.563,
+          "debtB": 17.048,
+          "capexB": 2.078,
+          "freeCashFlowB": 2.485,
+          "revenueGrowthPct": null,
+          "netMarginPct": 14.323037621922898,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000006/vistra-20251231.htm"
+          }
+        },
+        {
+          "period": "FY2025",
+          "periodType": "annual",
+          "revenueB": 17.738,
+          "netIncomeB": 0.752,
+          "operatingCashFlowB": 4.07,
+          "debtB": 20.068,
+          "capexB": 2.752,
+          "freeCashFlowB": 1.318,
+          "revenueGrowthPct": 2.984208081746398,
+          "netMarginPct": 4.239485849588455,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000006/vistra-20251231.htm"
+          }
+        },
+        {
+          "period": "Q3 2026",
+          "periodType": "quarter",
+          "revenueB": 6.347,
+          "netIncomeB": 1.092,
+          "operatingCashFlowB": 2.108,
+          "debtB": 21.146,
+          "capexB": 0.747,
+          "freeCashFlowB": 1.361,
+          "revenueGrowthPct": 27.68054717360693,
+          "netMarginPct": 17.204978730108714,
+          "currency": "USD",
+          "source": {
+            "label": "Q3 2026 financial statements",
+            "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+          },
+          "sources": [
+            {
+              "label": "Q3 2026 financial statements",
+              "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+            },
+            {
+              "label": "Q2 2026 interim statements for quarter cash flow",
+              "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000019/vistra-20260630.htm"
+            },
+            {
+              "label": "Q3 2026 reported results",
+              "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000023/vistra-20260930xearningsre.htm"
+            }
+          ]
+        }
+      ],
+      "valuation": {
+        "method": "Adjusted FCF before growth per share × price/FCF",
+        "unit": "USD/share",
+        "baseYear": 2026,
+        "baseMetric": 13.235294117647058,
+        "baseMetricLabel": "FY2026 adjusted FCF before growth midpoint per 340M assumed shares",
+        "scenarios": {
+          "bear": {
+            "growthPct": 0,
+            "multiple": 8,
+            "reason": "Weak power prices and higher costs",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 105.88
+              },
+              {
+                "year": 2027,
+                "price": 105.88
+              },
+              {
+                "year": 2028,
+                "price": 105.88
+              },
+              {
+                "year": 2029,
+                "price": 105.88
+              },
+              {
+                "year": 2030,
+                "price": 105.88
+              }
+            ]
+          },
+          "base": {
+            "growthPct": 7,
+            "multiple": 13,
+            "reason": "Stable contracting and growing generation cash flow",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 172.06
+              },
+              {
+                "year": 2027,
+                "price": 184.1
+              },
+              {
+                "year": 2028,
+                "price": 196.99
+              },
+              {
+                "year": 2029,
+                "price": 210.78
+              },
+              {
+                "year": 2030,
+                "price": 225.53
+              }
+            ]
+          },
+          "bull": {
+            "growthPct": 13,
+            "multiple": 17,
+            "reason": "Stronger capacity pricing and disciplined repurchases",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 225
+              },
+              {
+                "year": 2027,
+                "price": 254.25
+              },
+              {
+                "year": 2028,
+                "price": 287.3
+              },
+              {
+                "year": 2029,
+                "price": 324.65
+              },
+              {
+                "year": 2030,
+                "price": 366.86
+              }
+            ]
+          }
+        },
+        "assumptions": "Price = starting per-share metric × (1 + annual scenario growth)^(year minus starting year) × scenario multiple. Growth and exit multiples are analyst assumptions. Price excludes dividends. Share-count changes are implicit in per-share growth.",
+        "disclaimer": "Illustrative analyst scenario. The model depends on the displayed assumptions and carries no probability weighting."
+      },
+      "sources": [
+        {
+          "label": "FY2025 annual report and FY2024 comparatives",
+          "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000006/vistra-20251231.htm"
+        },
+        {
+          "label": "Q3 2026 financial statements",
+          "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+        },
+        {
+          "label": "Q2 2026 interim statements for quarter cash flow",
+          "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000019/vistra-20260630.htm"
+        },
+        {
+          "label": "Q3 2026 reported results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000023/vistra-20260930xearningsre.htm"
+        },
+        {
+          "label": "May 2026 operating footprint, p. 3",
+          "url": "https://investor.vistracorp.com/image/Q2_2026_Results_Presentation_vFinal.pdf"
+        }
+      ],
+      "logo": "/energy/logos/vst.png"
+    },
+    "GEV": {
+      "name": "GE Vernova",
+      "segment": "Turbines & grid equipment",
+      "overview": "Sells and services gas turbines, wind turbines and electrification equipment, including gear that connects power to the grid.",
+      "advantages": [
+        "A large installed turbine fleet supports service revenue",
+        "Power and electrification businesses benefit from both new generation and grid upgrades",
+        "Equipment and service backlog improves demand visibility"
+      ],
+      "risks": [
+        "Wind segment losses and project execution",
+        "Supplier bottlenecks and fixed-price contract exposure",
+        "Working-capital timing and tax benefits can distort earnings and cash-flow comparisons"
+      ],
+      "marketShare": "GE Vernova estimates that its installed equipment base generates approximately 25% of world electricity. That measure describes equipment in service.",
+      "supplyConstraints": "Gas turbine slots, components, transformers and high-voltage equipment take time to manufacture. Bookings and slot reservations carry different delivery commitments.",
+      "financialNote": "FY2025 GAAP net income included a $2.9B U.S. tax valuation allowance release. Q3 2026 revenue rose 27% reported and 18% organically. Operating cash flow included substantial working-capital inflows. Debt includes disclosed finance leases and other borrowings.",
+      "financials": [
+        {
+          "period": "FY2024",
+          "periodType": "annual",
+          "revenueB": 34.935,
+          "netIncomeB": 1.552,
+          "operatingCashFlowB": 2.583,
+          "debtB": 0.318,
+          "capexB": 0.883,
+          "freeCashFlowB": 1.7,
+          "revenueGrowthPct": null,
+          "netMarginPct": 4.442536138543009,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm"
+          }
+        },
+        {
+          "period": "FY2025",
+          "periodType": "annual",
+          "revenueB": 38.068,
+          "netIncomeB": 4.884,
+          "operatingCashFlowB": 4.987,
+          "debtB": 0.328,
+          "capexB": 1.277,
+          "freeCashFlowB": 3.71,
+          "revenueGrowthPct": 8.968083583798482,
+          "netMarginPct": 12.829673216349692,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm"
+          }
+        },
+        {
+          "period": "Q3 2026",
+          "periodType": "quarter",
+          "revenueB": 12.642,
+          "netIncomeB": 1.291,
+          "operatingCashFlowB": 6.057,
+          "debtB": 2.826,
+          "capexB": 0.647,
+          "freeCashFlowB": 5.41,
+          "revenueGrowthPct": 26.813120674089674,
+          "netMarginPct": 10.211991773453567,
+          "currency": "USD",
+          "source": {
+            "label": "Q3 2026 financial statements",
+            "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+          },
+          "sources": [
+            {
+              "label": "Q3 2026 financial statements",
+              "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+            },
+            {
+              "label": "Q3 2026 reported results",
+              "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000162/gevpressrelease3q26.htm"
+            }
+          ]
+        }
+      ],
+      "valuation": {
+        "method": "FCF per share × price/FCF",
+        "unit": "USD/share",
+        "baseYear": 2025,
+        "baseMetric": 13.764728890641804,
+        "baseMetricLabel": "FY2025 free cash flow per year-end share",
+        "scenarios": {
+          "bear": {
+            "growthPct": 6,
+            "multiple": 16,
+            "reason": "Backlog conversion slows and working-capital benefit reverses",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 233.45
+              },
+              {
+                "year": 2027,
+                "price": 247.46
+              },
+              {
+                "year": 2028,
+                "price": 262.3
+              },
+              {
+                "year": 2029,
+                "price": 278.04
+              },
+              {
+                "year": 2030,
+                "price": 294.72
+              }
+            ]
+          },
+          "base": {
+            "growthPct": 18,
+            "multiple": 27,
+            "reason": "Power and grid backlog convert with better margins",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 438.54
+              },
+              {
+                "year": 2027,
+                "price": 517.48
+              },
+              {
+                "year": 2028,
+                "price": 610.63
+              },
+              {
+                "year": 2029,
+                "price": 720.54
+              },
+              {
+                "year": 2030,
+                "price": 850.24
+              }
+            ]
+          },
+          "bull": {
+            "growthPct": 27,
+            "multiple": 36,
+            "reason": "Strong service mix and durable equipment pricing",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 629.32
+              },
+              {
+                "year": 2027,
+                "price": 799.24
+              },
+              {
+                "year": 2028,
+                "price": 1015.04
+              },
+              {
+                "year": 2029,
+                "price": 1289.1
+              },
+              {
+                "year": 2030,
+                "price": 1637.15
+              }
+            ]
+          }
+        },
+        "assumptions": "Price = starting per-share metric × (1 + annual scenario growth)^(year minus starting year) × scenario multiple. Growth and exit multiples are analyst assumptions. Price excludes dividends. Share-count changes are implicit in per-share growth.",
+        "disclaimer": "Illustrative analyst scenario. The model depends on the displayed assumptions and carries no probability weighting."
+      },
+      "sources": [
+        {
+          "label": "FY2025 annual report and FY2024 comparatives",
+          "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm"
+        },
+        {
+          "label": "Q3 2026 financial statements",
+          "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm"
+        },
+        {
+          "label": "Q3 2026 reported results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000162/gevpressrelease3q26.htm"
+        },
+        {
+          "label": "FY2025 earnings and free cash flow reconciliation",
+          "url": "https://www.gevernova.com/news/press-releases/ge-vernova-reports-fourth-quarter-full-year-2025-financial-results"
+        }
+      ],
+      "logo": "/energy/logos/gev.png"
+    },
+    "CCJ": {
+      "name": "Cameco",
+      "segment": "Uranium, fuel services & nuclear technology",
+      "overview": "Produces and markets uranium, runs fuel-services assets and holds a 49% economic interest in Westinghouse.",
+      "advantages": [
+        "High-grade Saskatchewan assets",
+        "Long-lived utility contracting relationships",
+        "Exposure to several parts of the nuclear fuel and service chain"
+      ],
+      "risks": [
+        "Uranium prices, contract mix and delivery timing",
+        "Operational or geopolitical interruptions to uranium supply",
+        "Westinghouse project economics and exchange rates"
+      ],
+      "marketShare": "Cameco's 23.4 million lb share of 2024 mine production represents about 15% of global uranium mine output on a U₃O₈ basis. Its share of production was 21.0 million lb in 2025, when it sold 33.0 million lb including purchases or inventories.",
+      "supplyConstraints": "Mine development and milling are capital-intensive and slow. Production from Canadian and Kazakh assets faces labor, maintenance, geopolitical and transit constraints.",
+      "financialNote": "Cameco financial statements are in Canadian dollars and follow IFRS. The 2030 valuation converts modeled EPS to U.S. dollars for the NYSE listing. Q3 2026 production outlook was 19.5–20.5 million lb of U₃O₈ for FY2026.",
+      "financials": [
+        {
+          "period": "FY2024",
+          "periodType": "annual",
+          "revenueB": 3.136,
+          "netIncomeB": 0.171853,
+          "operatingCashFlowB": 0.905288,
+          "debtB": 1.28129,
+          "capexB": 0.211635,
+          "freeCashFlowB": 0.693653,
+          "revenueGrowthPct": null,
+          "netMarginPct": 5.480006377551021,
+          "currency": "CAD",
+          "source": {
+            "label": "FY2025 IFRS financial statements",
+            "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526049832/d34107dex992.htm"
+          }
+        },
+        {
+          "period": "FY2025",
+          "periodType": "annual",
+          "revenueB": 3.481933,
+          "netIncomeB": 0.589577,
+          "operatingCashFlowB": 1.408432,
+          "debtB": 0.996348,
+          "capexB": 0.333025,
+          "freeCashFlowB": 1.075407,
+          "revenueGrowthPct": 11.031026785714282,
+          "netMarginPct": 16.93246251435625,
+          "currency": "CAD",
+          "source": {
+            "label": "FY2025 IFRS financial statements",
+            "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526049832/d34107dex992.htm"
+          }
+        },
+        {
+          "period": "Q3 2026",
+          "periodType": "quarter",
+          "revenueB": 0.619064,
+          "netIncomeB": 0.042717,
+          "operatingCashFlowB": 0.003287,
+          "debtB": 0.996952,
+          "capexB": 0.137272,
+          "freeCashFlowB": -0.133985,
+          "revenueGrowthPct": 0.7337016214984837,
+          "netMarginPct": 6.9002558701523595,
+          "currency": "CAD",
+          "source": {
+            "label": "Q3 2026 financial statements",
+            "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+          },
+          "sources": [
+            {
+              "label": "Q3 2026 financial statements",
+              "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+            },
+            {
+              "label": "Q3 2026 reported results",
+              "url": "https://www.cameco.com/invest/financial-information/quarterly-reports/2026/q3"
+            }
+          ]
+        }
+      ],
+      "valuation": {
+        "method": "Adjusted EPS × P/E",
+        "unit": "USD/share",
+        "baseYear": 2025,
+        "baseMetric": 1.0368,
+        "baseMetricLabel": "FY2025 adjusted diluted EPS converted at an assumed USD 0.72 per CAD",
+        "scenarios": {
+          "bear": {
+            "growthPct": 3,
+            "multiple": 22,
+            "reason": "Low uranium realizations and Westinghouse delays",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 23.49
+              },
+              {
+                "year": 2027,
+                "price": 24.2
+              },
+              {
+                "year": 2028,
+                "price": 24.92
+              },
+              {
+                "year": 2029,
+                "price": 25.67
+              },
+              {
+                "year": 2030,
+                "price": 26.44
+              }
+            ]
+          },
+          "base": {
+            "growthPct": 18,
+            "multiple": 32,
+            "reason": "Improving uranium contract prices and service contributions",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 39.15
+              },
+              {
+                "year": 2027,
+                "price": 46.2
+              },
+              {
+                "year": 2028,
+                "price": 54.51
+              },
+              {
+                "year": 2029,
+                "price": 64.32
+              },
+              {
+                "year": 2030,
+                "price": 75.9
+              }
+            ]
+          },
+          "bull": {
+            "growthPct": 27,
+            "multiple": 45,
+            "reason": "Tight mine supply, stronger contracting and project earnings",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 59.25
+              },
+              {
+                "year": 2027,
+                "price": 75.25
+              },
+              {
+                "year": 2028,
+                "price": 95.57
+              },
+              {
+                "year": 2029,
+                "price": 121.37
+              },
+              {
+                "year": 2030,
+                "price": 154.14
+              }
+            ]
+          }
+        },
+        "assumptions": "Price = starting per-share metric × (1 + annual scenario growth)^(year minus starting year) × scenario multiple. Growth and exit multiples are analyst assumptions. Price excludes dividends. Share-count changes are implicit in per-share growth.",
+        "disclaimer": "Illustrative analyst scenario. The model depends on the displayed assumptions and carries no probability weighting."
+      },
+      "sources": [
+        {
+          "label": "FY2025 IFRS financial statements",
+          "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526049832/d34107dex992.htm"
+        },
+        {
+          "label": "Q3 2026 financial statements",
+          "url": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526439858/d106072dex993.htm"
+        },
+        {
+          "label": "Q3 2026 reported results",
+          "url": "https://www.cameco.com/invest/financial-information/quarterly-reports/2026/q3"
+        },
+        {
+          "label": "FY2025 annual report and production results",
+          "url": "https://www.cameco.com/invest/financial-information/annual-reports/2025"
+        },
+        {
+          "label": "FY2025 adjusted earnings and sales volumes",
+          "url": "https://www.cameco.com/invest/financial-information/annual-highlights"
+        },
+        {
+          "label": "World Nuclear Association 2024 worldwide uranium mining production",
+          "url": "https://world-nuclear.org/information-library/facts-and-figures/uranium-production-by-country"
+        }
+      ],
+      "logo": "/energy/logos/ccj.png"
+    },
+    "TLN": {
+      "name": "Talen Energy",
+      "segment": "Independent power in PJM",
+      "overview": "Operates the Susquehanna nuclear station and gas generation in competitive power markets. Capacity and energy prices in PJM drive results alongside contracted sales.",
+      "advantages": [
+        "Fuel and asset mix spans nuclear and gas",
+        "Operating plants can serve growing regional load faster than new builds",
+        "Long-term Amazon power purchase agreement provides a route to monetize existing generation"
+      ],
+      "risks": [
+        "Exposure to a large customer and PJM",
+        "Acquisition borrowing and integration",
+        "Nuclear plant outages, capacity-market changes and hedge effects"
+      ],
+      "marketShare": "FY2025 consolidated generation was 39.9 TWh, of which 42% was carbon-free. A directly comparable regional generation share was not available in the filing.",
+      "supplyConstraints": "Growth depends on generator acquisitions, interconnection approvals, reliable nuclear output and sufficient gas supply at peak times.",
+      "financialNote": "Direct cash capex is the PP&E expenditures line. It excludes nuclear fuel and separate project expenditures. Q3 2026 management introduced 2027 adjusted FCF guidance of $1.50B–$1.75B.",
+      "financials": [
+        {
+          "period": "FY2024",
+          "periodType": "annual",
+          "revenueB": 2.115,
+          "netIncomeB": 0.998,
+          "operatingCashFlowB": 0.256,
+          "debtB": 3.004,
+          "capexB": 0.085,
+          "freeCashFlowB": 0.171,
+          "revenueGrowthPct": null,
+          "netMarginPct": 47.18676122931441,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000017/tln-20251231.htm"
+          }
+        },
+        {
+          "period": "FY2025",
+          "periodType": "annual",
+          "revenueB": 2.581,
+          "netIncomeB": -0.219,
+          "operatingCashFlowB": 0.704,
+          "debtB": 6.811,
+          "capexB": 0.098,
+          "freeCashFlowB": 0.606,
+          "revenueGrowthPct": 22.033096926713934,
+          "netMarginPct": -8.485083301046105,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000017/tln-20251231.htm"
+          }
+        },
+        {
+          "period": "Q3 2026",
+          "periodType": "quarter",
+          "revenueB": 1.327,
+          "netIncomeB": 0.138,
+          "operatingCashFlowB": 0.463,
+          "debtB": 9.569,
+          "capexB": 0.167,
+          "freeCashFlowB": 0.296,
+          "revenueGrowthPct": 63.42364532019702,
+          "netMarginPct": 10.39939713639789,
+          "currency": "USD",
+          "source": {
+            "label": "Q3 2026 financial statements",
+            "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+          },
+          "sources": [
+            {
+              "label": "Q3 2026 financial statements",
+              "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+            },
+            {
+              "label": "Q2 2026 interim statements for quarter cash flow",
+              "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000066/tln-20260630.htm"
+            },
+            {
+              "label": "Q3 2026 reported results",
+              "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000084/a20261103q32026earningsrel.htm"
+            }
+          ]
+        }
+      ],
+      "valuation": {
+        "method": "Adjusted FCF per share × price/FCF",
+        "unit": "USD/share",
+        "baseYear": 2027,
+        "baseMetric": 33.854166666666664,
+        "baseMetricLabel": "FY2027 adjusted FCF guidance midpoint per 48M assumed shares",
+        "scenarios": {
+          "bear": {
+            "growthPct": -3,
+            "multiple": 6,
+            "reason": "Weaker capacity prices and acquisition integration costs",
+            "projections": [
+              {
+                "year": 2027,
+                "price": 203.13
+              },
+              {
+                "year": 2028,
+                "price": 197.03
+              },
+              {
+                "year": 2029,
+                "price": 191.12
+              },
+              {
+                "year": 2030,
+                "price": 185.39
+              }
+            ]
+          },
+          "base": {
+            "growthPct": 7,
+            "multiple": 10,
+            "reason": "Contract delivery and stable PJM conditions",
+            "projections": [
+              {
+                "year": 2027,
+                "price": 338.54
+              },
+              {
+                "year": 2028,
+                "price": 362.24
+              },
+              {
+                "year": 2029,
+                "price": 387.6
+              },
+              {
+                "year": 2030,
+                "price": 414.73
+              }
+            ]
+          },
+          "bull": {
+            "growthPct": 15,
+            "multiple": 15,
+            "reason": "Stronger contract and market revenues plus operating leverage",
+            "projections": [
+              {
+                "year": 2027,
+                "price": 507.81
+              },
+              {
+                "year": 2028,
+                "price": 583.98
+              },
+              {
+                "year": 2029,
+                "price": 671.58
+              },
+              {
+                "year": 2030,
+                "price": 772.32
+              }
+            ]
+          }
+        },
+        "assumptions": "Price = starting per-share metric × (1 + annual scenario growth)^(year minus starting year) × scenario multiple. Growth and exit multiples are analyst assumptions. Price excludes dividends. Share-count changes are implicit in per-share growth.",
+        "disclaimer": "Illustrative analyst scenario. The model depends on the displayed assumptions and carries no probability weighting."
+      },
+      "sources": [
+        {
+          "label": "FY2025 annual report and FY2024 comparatives",
+          "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000017/tln-20251231.htm"
+        },
+        {
+          "label": "Q3 2026 financial statements",
+          "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000086/tln-20260930.htm"
+        },
+        {
+          "label": "Q2 2026 interim statements for quarter cash flow",
+          "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000066/tln-20260630.htm"
+        },
+        {
+          "label": "Q3 2026 reported results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000084/a20261103q32026earningsrel.htm"
+        }
+      ],
+      "logo": "/energy/logos/tln.png"
+    },
+    "BE": {
+      "name": "Bloom Energy",
+      "segment": "On-site solid oxide fuel cells",
+      "overview": "Sells modular fuel cells and related services for customers that need on-site electricity, including data centers that may face grid connection delays.",
+      "advantages": [
+        "Modular footprint can accelerate deployment where the site has gas and permits",
+        "Installed fleet creates service opportunities",
+        "Electricity can be delivered directly to customer sites"
+      ],
+      "risks": [
+        "Equipment reliability and replacement or maintenance cost",
+        "Customer and channel concentration",
+        "High growth assumptions, convertible debt and project financing exposure"
+      ],
+      "marketShare": "The company disclosed nearly 682 MW of deployed systems in South Korea in its FY2025 filing. This figure measures deployment in one national market.",
+      "supplyConstraints": "Deployment depends on module manufacturing, gas connections, local permits, project financing and customer construction schedules.",
+      "financialNote": "Q3 2026 sales increased 138.1% YoY. Management raised FY2026 revenue guidance to $4.4B–$4.6B. GAAP profits and operating cash flow moved differently in the quarter.",
+      "financials": [
+        {
+          "period": "FY2024",
+          "periodType": "annual",
+          "revenueB": 1.473856,
+          "netIncomeB": -0.029227,
+          "operatingCashFlowB": 0.091998,
+          "debtB": 1.128792,
+          "capexB": 0.058852,
+          "freeCashFlowB": 0.033146,
+          "revenueGrowthPct": null,
+          "netMarginPct": -1.9830295496982064,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm"
+          }
+        },
+        {
+          "period": "FY2025",
+          "periodType": "annual",
+          "revenueB": 2.023994,
+          "netIncomeB": -0.088434,
+          "operatingCashFlowB": 0.113949,
+          "debtB": 2.617879,
+          "capexB": 0.056759,
+          "freeCashFlowB": 0.05719,
+          "revenueGrowthPct": 37.326441660514995,
+          "netMarginPct": -4.369281727119744,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm"
+          }
+        },
+        {
+          "period": "Q3 2026",
+          "periodType": "quarter",
+          "revenueB": 1.235837,
+          "netIncomeB": 0.250271,
+          "operatingCashFlowB": -0.027147,
+          "debtB": 2.476449,
+          "capexB": 0.153487,
+          "freeCashFlowB": -0.180634,
+          "revenueGrowthPct": 138.09686194725734,
+          "netMarginPct": 20.25113344235526,
+          "currency": "USD",
+          "source": {
+            "label": "Q3 2026 financial statements",
+            "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+          },
+          "sources": [
+            {
+              "label": "Q3 2026 financial statements",
+              "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+            },
+            {
+              "label": "Q3 2026 reported results",
+              "url": "https://www.bloomenergy.com/news/bloom-energy-reports-record-third-quarter-2026-financial-results-and-raises-full-year-2026-guidance/"
+            }
+          ]
+        }
+      ],
+      "valuation": {
+        "method": "Revenue per share × P/S",
+        "unit": "USD/share",
+        "baseYear": 2026,
+        "baseMetric": 16.071428571428573,
+        "baseMetricLabel": "FY2026 sales guidance midpoint per 280M assumed diluted shares",
+        "scenarios": {
+          "bear": {
+            "growthPct": 3,
+            "multiple": 2.5,
+            "reason": "Fuel-cell deployments decelerate and cash conversion weakens",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 40.18
+              },
+              {
+                "year": 2027,
+                "price": 41.38
+              },
+              {
+                "year": 2028,
+                "price": 42.63
+              },
+              {
+                "year": 2029,
+                "price": 43.9
+              },
+              {
+                "year": 2030,
+                "price": 45.22
+              }
+            ]
+          },
+          "base": {
+            "growthPct": 20,
+            "multiple": 6,
+            "reason": "Production and installation scale with improving cash conversion",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 96.43
+              },
+              {
+                "year": 2027,
+                "price": 115.71
+              },
+              {
+                "year": 2028,
+                "price": 138.86
+              },
+              {
+                "year": 2029,
+                "price": 166.63
+              },
+              {
+                "year": 2030,
+                "price": 199.95
+              }
+            ]
+          },
+          "bull": {
+            "growthPct": 32,
+            "multiple": 10,
+            "reason": "Deployments compound and recurring service economics support stronger margins",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 160.71
+              },
+              {
+                "year": 2027,
+                "price": 212.14
+              },
+              {
+                "year": 2028,
+                "price": 280.03
+              },
+              {
+                "year": 2029,
+                "price": 369.64
+              },
+              {
+                "year": 2030,
+                "price": 487.92
+              }
+            ]
+          }
+        },
+        "assumptions": "Price = starting per-share metric × (1 + annual scenario growth)^(year minus starting year) × scenario multiple. Growth and exit multiples are analyst assumptions. Price excludes dividends. Share-count changes are implicit in per-share growth.",
+        "disclaimer": "Illustrative analyst scenario. The model depends on the displayed assumptions and carries no probability weighting."
+      },
+      "sources": [
+        {
+          "label": "FY2025 annual report and FY2024 comparatives",
+          "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm"
+        },
+        {
+          "label": "Q3 2026 financial statements",
+          "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm"
+        },
+        {
+          "label": "Q3 2026 reported results",
+          "url": "https://www.bloomenergy.com/news/bloom-energy-reports-record-third-quarter-2026-financial-results-and-raises-full-year-2026-guidance/"
+        }
+      ],
+      "logo": "/energy/logos/be.png"
+    },
+    "OKLO": {
+      "name": "Oklo",
+      "segment": "Advanced nuclear development",
+      "overview": "Developing compact fast-reactor powerhouses and a fuel and radioisotope business. Its early-stage financial results predominantly reflect development spending and capital raising.",
+      "advantages": [
+        "Planned build-own-operate model and access to potential anchor customers",
+        "Potential future demand for on-site reliable power",
+        "Several potential routes to market through power, fuel and radioisotopes"
+      ],
+      "risks": [
+        "Licensing and first-of-a-kind cost and schedule risk",
+        "Dependence on fuel availability and commercial manufacturing scale",
+        "Losses, capital consumption and potential shareholder dilution"
+      ],
+      "marketShare": "The September 2026 filing did not show operating powerhouse revenue. Development pipeline capacity is tracked separately from operating market share.",
+      "supplyConstraints": "Commercial deployment requires site and design approvals, suitable fuel, specialized components and suppliers, and sufficient construction financing.",
+      "financialNote": "Q3 2026 liquid assets were about $3.13B in cash, equivalents and marketable debt securities, excluding restricted cash. Nine-month operating cash use was $110.9M. Reported borrowings exclude leases and right-of-first-refusal liabilities.",
+      "financials": [
+        {
+          "period": "FY2024",
+          "periodType": "annual",
+          "revenueB": 0,
+          "netIncomeB": -0.073616,
+          "operatingCashFlowB": -0.03839,
+          "debtB": 0,
+          "capexB": 0.000352,
+          "freeCashFlowB": -0.038742,
+          "revenueGrowthPct": null,
+          "netMarginPct": null,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026018698/oklo-20251231.htm"
+          }
+        },
+        {
+          "period": "FY2025",
+          "periodType": "annual",
+          "revenueB": 0,
+          "netIncomeB": -0.105663,
+          "operatingCashFlowB": -0.082174,
+          "debtB": 0,
+          "capexB": 0.033205,
+          "freeCashFlowB": -0.115379,
+          "revenueGrowthPct": null,
+          "netMarginPct": null,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026018698/oklo-20251231.htm"
+          }
+        },
+        {
+          "period": "Q3 2026",
+          "periodType": "quarter",
+          "revenueB": 0,
+          "netIncomeB": -0.041746,
+          "operatingCashFlowB": -0.045482,
+          "debtB": 0,
+          "capexB": 0.153973,
+          "freeCashFlowB": -0.199455,
+          "revenueGrowthPct": null,
+          "netMarginPct": null,
+          "currency": "USD",
+          "source": {
+            "label": "Q3 2026 reported results",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+          },
+          "sources": [
+            {
+              "label": "Q3 2026 reported results",
+              "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+            },
+            {
+              "label": "Q2 2026 interim statements for quarter cash flow",
+              "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026054571/oklo-20260630.htm"
+            }
+          ]
+        }
+      ],
+      "valuation": {
+        "method": "2030 enterprise value / sales",
+        "unit": "USD/share",
+        "baseYear": 2030,
+        "assumptions": "Price = (2030 sales × sales multiple + remaining net cash) ÷ diluted shares. Power sales = operational MW × 8,760 hours × 90% utilization × assumed realized price. Adjacent sales are assumptions. Commercial timing and funding are speculative.",
+        "scenarios": {
+          "bear": {
+            "revenueB": 0.12,
+            "multiple": 4,
+            "netCashB": 1,
+            "sharesM": 215,
+            "operationalMw": 100,
+            "priceMWh": 100,
+            "price": 6.883720930232558,
+            "reason": "Assumes 100 MW operating in 2030, at 90% utilization and $100/MWh, plus hypothetical sales in other businesses. Assumes $1B net cash and 215M diluted shares after development financing."
+          },
+          "base": {
+            "revenueB": 0.75,
+            "multiple": 8,
+            "netCashB": 1.5,
+            "sharesM": 225,
+            "operationalMw": 700,
+            "priceMWh": 110,
+            "price": 33.333333333333336,
+            "reason": "Assumes 700 MW operating in 2030, at 90% utilization and $110/MWh, plus hypothetical sales in other businesses. Assumes $1.5B net cash and 225M diluted shares after development financing."
+          },
+          "bull": {
+            "revenueB": 1.7,
+            "multiple": 12,
+            "netCashB": 1.75,
+            "sharesM": 240,
+            "operationalMw": 1500,
+            "priceMWh": 125,
+            "price": 92.29166666666667,
+            "reason": "Assumes 1,500 MW operating in 2030, at 90% utilization and $125/MWh, plus hypothetical sales in other businesses. Assumes $1.75B net cash and 240M diluted shares after development financing."
+          }
+        }
+      },
+      "sources": [
+        {
+          "label": "FY2025 annual report and FY2024 comparatives",
+          "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026018698/oklo-20251231.htm"
+        },
+        {
+          "label": "Q3 2026 reported results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026071319/oklo-20260930.htm"
+        },
+        {
+          "label": "Q2 2026 interim statements for quarter cash flow",
+          "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026054571/oklo-20260630.htm"
+        }
+      ],
+      "logo": "/energy/logos/oklo.png"
+    },
+    "ETN": {
+      "name": "Eaton",
+      "segment": "Power distribution & electrical equipment",
+      "overview": "Supplies electrical components, power distribution, power quality, cooling and modular equipment. The broader company also serves aerospace and mobility markets.",
+      "advantages": [
+        "Established sales channels and engineered systems",
+        "Equipment sits between incoming utility electricity and server loads",
+        "Large electrical footprint and adjacency in thermal management"
+      ],
+      "risks": [
+        "Data center capex cycle and order conversion",
+        "Capacity expansion and acquisition integration",
+        "Component cost, tariffs and contract pricing exposure"
+      ],
+      "marketShare": "Electrical Americas generated $13.28B in FY2025 sales, 48% of total company sales. A current global share for the broad electrical product portfolio was unavailable.",
+      "supplyConstraints": "Capacity for switchgear, power distribution modules, critical components and skilled integration labor can limit order conversion.",
+      "financialNote": "Q3 2026 sales grew 28% reported and 19% organically. Management guided to FY2026 GAAP EPS of $10.39–$10.49 and adjusted EPS of $13.70–$13.80.",
+      "financials": [
+        {
+          "period": "FY2024",
+          "periodType": "annual",
+          "revenueB": 24.878,
+          "netIncomeB": 3.794,
+          "operatingCashFlowB": 4.327,
+          "debtB": 9.152,
+          "capexB": 0.808,
+          "freeCashFlowB": 3.519,
+          "revenueGrowthPct": null,
+          "netMarginPct": 15.250422059651097,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm"
+          }
+        },
+        {
+          "period": "FY2025",
+          "periodType": "annual",
+          "revenueB": 27.448,
+          "netIncomeB": 4.087,
+          "operatingCashFlowB": 4.472,
+          "debtB": 9.895,
+          "capexB": 0.919,
+          "freeCashFlowB": 3.553,
+          "revenueGrowthPct": 10.330412412573352,
+          "netMarginPct": 14.889973768580589,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm"
+          }
+        },
+        {
+          "period": "Q3 2026",
+          "periodType": "quarter",
+          "revenueB": 8.947,
+          "netIncomeB": 1.078,
+          "operatingCashFlowB": 1.31,
+          "debtB": 20.106,
+          "capexB": 0.28,
+          "freeCashFlowB": 1.03,
+          "revenueGrowthPct": 28.0337721808815,
+          "netMarginPct": 12.048731418352522,
+          "currency": "USD",
+          "source": {
+            "label": "Q3 2026 reported results",
+            "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+          }
+        }
+      ],
+      "valuation": {
+        "method": "Adjusted EPS × P/E",
+        "unit": "USD/share",
+        "baseYear": 2026,
+        "baseMetric": 13.75,
+        "baseMetricLabel": "FY2026 adjusted EPS guidance midpoint",
+        "scenarios": {
+          "bear": {
+            "growthPct": 5,
+            "multiple": 19,
+            "reason": "Data center orders slow and margins normalize",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 261.25
+              },
+              {
+                "year": 2027,
+                "price": 274.31
+              },
+              {
+                "year": 2028,
+                "price": 288.03
+              },
+              {
+                "year": 2029,
+                "price": 302.43
+              },
+              {
+                "year": 2030,
+                "price": 317.55
+              }
+            ]
+          },
+          "base": {
+            "growthPct": 12,
+            "multiple": 27,
+            "reason": "Electrical orders sustain above-market growth",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 371.25
+              },
+              {
+                "year": 2027,
+                "price": 415.8
+              },
+              {
+                "year": 2028,
+                "price": 465.7
+              },
+              {
+                "year": 2029,
+                "price": 521.58
+              },
+              {
+                "year": 2030,
+                "price": 584.17
+              }
+            ]
+          },
+          "bull": {
+            "growthPct": 18,
+            "multiple": 35,
+            "reason": "Capacity and thermal integration support stronger margins and growth",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 481.25
+              },
+              {
+                "year": 2027,
+                "price": 567.87
+              },
+              {
+                "year": 2028,
+                "price": 670.09
+              },
+              {
+                "year": 2029,
+                "price": 790.71
+              },
+              {
+                "year": 2030,
+                "price": 933.04
+              }
+            ]
+          }
+        },
+        "assumptions": "Price = starting per-share metric × (1 + annual scenario growth)^(year minus starting year) × scenario multiple. Growth and exit multiples are analyst assumptions. Price excludes dividends. Share-count changes are implicit in per-share growth.",
+        "disclaimer": "Illustrative analyst scenario. The model depends on the displayed assumptions and carries no probability weighting."
+      },
+      "sources": [
+        {
+          "label": "FY2025 annual report and FY2024 comparatives",
+          "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm"
+        },
+        {
+          "label": "Q3 2026 reported results",
+          "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/etn-20260930.htm"
+        },
+        {
+          "label": "Q3 2026 guidance and cash flow",
+          "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-third-quarter-2026-results.html"
+        }
+      ],
+      "logo": "/energy/logos/etn.png"
+    },
+    "EQT": {
+      "name": "EQT Corporation",
+      "segment": "Appalachian natural gas",
+      "overview": "Produces natural gas and liquids and owns gathering and transmission infrastructure. Earnings depend on gas prices, hedges, production economics and access to customers.",
+      "advantages": [
+        "Significant Appalachian acreage and production scale",
+        "Integrated gathering and pipeline exposure",
+        "Hedging and firm transportation can manage some pricing and basis risk"
+      ],
+      "risks": [
+        "Henry Hub and regional gas price volatility",
+        "Pipeline permitting and takeaway constraints",
+        "Drilling productivity, service costs and hedge exposure"
+      ],
+      "marketShare": "FY2025 sales were 2,239 Bcf of natural gas and 2,382 Bcfe including liquids. A directly comparable national production share was unavailable.",
+      "supplyConstraints": "Appalachian takeaway capacity, pipeline permitting and drilling and completion cadence can constrain volumes and realized prices.",
+      "financialNote": "FY2025 reported revenue growth includes changes in sales volumes, pricing and derivative marks. Q3 2026 operating cash flow was about $1.08B and debt was $5.55B.",
+      "financials": [
+        {
+          "period": "FY2024",
+          "periodType": "annual",
+          "revenueB": 5.273309,
+          "netIncomeB": 0.230577,
+          "operatingCashFlowB": 2.826973,
+          "debtB": 9.324177,
+          "capexB": 2.254,
+          "freeCashFlowB": 0.572973,
+          "revenueGrowthPct": null,
+          "netMarginPct": 4.372529658322696,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000018/eqt-20251231.htm"
+          }
+        },
+        {
+          "period": "FY2025",
+          "periodType": "annual",
+          "revenueB": 8.644211,
+          "netIncomeB": 2.039247,
+          "operatingCashFlowB": 5.125952,
+          "debtB": 7.800328,
+          "capexB": 2.288,
+          "freeCashFlowB": 2.837952,
+          "revenueGrowthPct": 63.92384743621131,
+          "netMarginPct": 23.590898000985863,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000018/eqt-20251231.htm"
+          }
+        },
+        {
+          "period": "Q3 2026",
+          "periodType": "quarter",
+          "revenueB": 1.770394,
+          "netIncomeB": 0.278691,
+          "operatingCashFlowB": 1.083,
+          "debtB": 5.552552,
+          "capexB": 0.638,
+          "freeCashFlowB": 0.445,
+          "revenueGrowthPct": -9.607872270139817,
+          "netMarginPct": 15.74175014149393,
+          "currency": "USD",
+          "source": {
+            "label": "Q3 2026 reported results",
+            "url": "https://ir.eqt.com/newsroom/news-releases/news-release-details/2026/EQT-Reports-Third-Quarter-2026-Results/default.aspx"
+          }
+        }
+      ],
+      "valuation": {
+        "method": "Adjusted EPS × P/E",
+        "unit": "USD/share",
+        "baseYear": 2025,
+        "baseMetric": 3.05,
+        "baseMetricLabel": "FY2025 adjusted diluted EPS",
+        "scenarios": {
+          "bear": {
+            "growthPct": -4,
+            "multiple": 8,
+            "reason": "Weaker gas prices and wider regional price discounts",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 23.42
+              },
+              {
+                "year": 2027,
+                "price": 22.49
+              },
+              {
+                "year": 2028,
+                "price": 21.59
+              },
+              {
+                "year": 2029,
+                "price": 20.72
+              },
+              {
+                "year": 2030,
+                "price": 19.9
+              }
+            ]
+          },
+          "base": {
+            "growthPct": 5,
+            "multiple": 14,
+            "reason": "Moderate prices, execution and cash returns",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 44.84
+              },
+              {
+                "year": 2027,
+                "price": 47.08
+              },
+              {
+                "year": 2028,
+                "price": 49.43
+              },
+              {
+                "year": 2029,
+                "price": 51.9
+              },
+              {
+                "year": 2030,
+                "price": 54.5
+              }
+            ]
+          },
+          "bull": {
+            "growthPct": 13,
+            "multiple": 18,
+            "reason": "Stronger gas export and power demand with improved takeaway",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 62.04
+              },
+              {
+                "year": 2027,
+                "price": 70.1
+              },
+              {
+                "year": 2028,
+                "price": 79.22
+              },
+              {
+                "year": 2029,
+                "price": 89.51
+              },
+              {
+                "year": 2030,
+                "price": 101.15
+              }
+            ]
+          }
+        },
+        "assumptions": "Price = starting per-share metric × (1 + annual scenario growth)^(year minus starting year) × scenario multiple. Growth and exit multiples are analyst assumptions. Price excludes dividends. Share-count changes are implicit in per-share growth.",
+        "disclaimer": "Illustrative analyst scenario. The model depends on the displayed assumptions and carries no probability weighting."
+      },
+      "sources": [
+        {
+          "label": "FY2025 annual report and FY2024 comparatives",
+          "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000018/eqt-20251231.htm"
+        },
+        {
+          "label": "Q3 2026 reported results",
+          "url": "https://ir.eqt.com/newsroom/news-releases/news-release-details/2026/EQT-Reports-Third-Quarter-2026-Results/default.aspx"
+        },
+        {
+          "label": "FY2025 guidance and sales volumes",
+          "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000012/ex99112312025earningsrelea.htm"
+        }
+      ],
+      "logo": "/energy/logos/eqt.png"
+    },
+    "WMB": {
+      "name": "The Williams Companies",
+      "segment": "Gas pipelines & infrastructure",
+      "overview": "Moves, gathers and stores natural gas. The Transco pipeline links major supply regions and demand along the U.S. East Coast.",
+      "advantages": [
+        "Existing pipeline corridors are difficult to replicate",
+        "Gas transmission and gathering across multiple regions",
+        "Contracted capacity can generate revenue less sensitive to daily commodity prices"
+      ],
+      "risks": [
+        "Regulatory approval and litigation risk",
+        "Leveraged capital expenditure and interest-rate exposure",
+        "Construction delays and counterparty or throughput risk"
+      ],
+      "marketShare": "The company estimates Transco transports approximately 15% of U.S. natural gas. This is a pipeline throughput measure.",
+      "supplyConstraints": "Permitting, rights of way, compressor procurement and construction costs can slow pipeline capacity expansion.",
+      "financialNote": "FY2025 cash capital spending rose to $4.89B. Q3 2026 management projected FY2026 adjusted EBITDA toward the upper half of $8.3B–$8.5B.",
+      "financials": [
+        {
+          "period": "FY2024",
+          "periodType": "annual",
+          "revenueB": 10.503,
+          "netIncomeB": 2.222,
+          "operatingCashFlowB": 4.974,
+          "debtB": 26.911,
+          "capexB": 2.573,
+          "freeCashFlowB": 2.401,
+          "revenueGrowthPct": null,
+          "netMarginPct": 21.155860230410358,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/99250/000010726326000006/wmb-20251231.htm"
+          }
+        },
+        {
+          "period": "FY2025",
+          "periodType": "annual",
+          "revenueB": 11.95,
+          "netIncomeB": 2.615,
+          "operatingCashFlowB": 5.898,
+          "debtB": 29.361,
+          "capexB": 4.893,
+          "freeCashFlowB": 1.005,
+          "revenueGrowthPct": 13.777016090640771,
+          "netMarginPct": 21.88284518828452,
+          "currency": "USD",
+          "source": {
+            "label": "FY2025 annual report and FY2024 comparatives",
+            "url": "https://www.sec.gov/Archives/edgar/data/99250/000010726326000006/wmb-20251231.htm"
+          }
+        },
+        {
+          "period": "Q3 2026",
+          "periodType": "quarter",
+          "revenueB": 3.223,
+          "netIncomeB": 0.699,
+          "operatingCashFlowB": 1.505,
+          "debtB": 33.934,
+          "capexB": 2.489,
+          "freeCashFlowB": -0.984,
+          "revenueGrowthPct": 10.263427984946972,
+          "netMarginPct": 21.687868445547625,
+          "currency": "USD",
+          "source": {
+            "label": "Q3 2026 financial statements",
+            "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+          },
+          "sources": [
+            {
+              "label": "Q3 2026 financial statements",
+              "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+            },
+            {
+              "label": "Q2 2026 interim statements for quarter cash flow",
+              "url": "https://www.sec.gov/Archives/edgar/data/110019/000010726326000026/wmb-20260630.htm"
+            },
+            {
+              "label": "Q3 2026 reported results",
+              "url": "https://investor.williams.com/news-releases/news-release-details/williams-delivers-strong-third-quarter-2026-results"
+            }
+          ]
+        }
+      ],
+      "valuation": {
+        "method": "Adjusted EPS × P/E",
+        "unit": "USD/share",
+        "baseYear": 2025,
+        "baseMetric": 2.1,
+        "baseMetricLabel": "FY2025 adjusted diluted EPS",
+        "scenarios": {
+          "bear": {
+            "growthPct": 2,
+            "multiple": 16,
+            "reason": "Permitting delays and higher funding costs",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 34.27
+              },
+              {
+                "year": 2027,
+                "price": 34.96
+              },
+              {
+                "year": 2028,
+                "price": 35.66
+              },
+              {
+                "year": 2029,
+                "price": 36.37
+              },
+              {
+                "year": 2030,
+                "price": 37.1
+              }
+            ]
+          },
+          "base": {
+            "growthPct": 8,
+            "multiple": 23,
+            "reason": "Capacity projects enter service on schedule",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 52.16
+              },
+              {
+                "year": 2027,
+                "price": 56.34
+              },
+              {
+                "year": 2028,
+                "price": 60.84
+              },
+              {
+                "year": 2029,
+                "price": 65.71
+              },
+              {
+                "year": 2030,
+                "price": 70.97
+              }
+            ]
+          },
+          "bull": {
+            "growthPct": 13,
+            "multiple": 28,
+            "reason": "Higher gas throughput and stronger contracted project economics",
+            "projections": [
+              {
+                "year": 2026,
+                "price": 66.44
+              },
+              {
+                "year": 2027,
+                "price": 75.08
+              },
+              {
+                "year": 2028,
+                "price": 84.84
+              },
+              {
+                "year": 2029,
+                "price": 95.87
+              },
+              {
+                "year": 2030,
+                "price": 108.34
+              }
+            ]
+          }
+        },
+        "assumptions": "Price = starting per-share metric × (1 + annual scenario growth)^(year minus starting year) × scenario multiple. Growth and exit multiples are analyst assumptions. Price excludes dividends. Share-count changes are implicit in per-share growth.",
+        "disclaimer": "Illustrative analyst scenario. The model depends on the displayed assumptions and carries no probability weighting."
+      },
+      "sources": [
+        {
+          "label": "FY2025 annual report and FY2024 comparatives",
+          "url": "https://www.sec.gov/Archives/edgar/data/99250/000010726326000006/wmb-20251231.htm"
+        },
+        {
+          "label": "Q3 2026 financial statements",
+          "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000036/wmb-20260930.htm"
+        },
+        {
+          "label": "Q2 2026 interim statements for quarter cash flow",
+          "url": "https://www.sec.gov/Archives/edgar/data/110019/000010726326000026/wmb-20260630.htm"
+        },
+        {
+          "label": "Q3 2026 reported results",
+          "url": "https://investor.williams.com/news-releases/news-release-details/williams-delivers-strong-third-quarter-2026-results"
+        },
+        {
+          "label": "Transco system footprint",
+          "url": "https://investor.williams.com/"
+        },
+        {
+          "label": "FY2025 adjusted EPS and EBITDA",
+          "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000003/wmb_20251231xer.htm"
+        }
+      ],
+      "logo": "/energy/logos/wmb.png"
+    }
+  },
+  "sector": {
+    "metrics": [
+      {
+        "label": "Global energy demand growth",
+        "value": "+1.3%",
+        "note": "2025 year-over-year, all energy sources",
+        "source": {
+          "label": "IEA Global Energy Review 2026",
+          "url": "https://www.iea.org/reports/global-energy-review-2026/key-findings"
+        }
+      },
+      {
+        "label": "Global electricity demand growth",
+        "value": "+3.6% / yr",
+        "note": "IEA forecast, 2026–2030 average annual increase",
+        "source": {
+          "label": "IEA Electricity 2026",
+          "url": "https://www.iea.org/reports/electricity-2026/executive-summary"
+        }
+      },
+      {
+        "label": "Global data center electricity",
+        "value": "485 TWh",
+        "note": "2025 IEA estimate, all data centers including AI workloads",
+        "source": {
+          "label": "IEA Key Questions on Energy and AI, Table A.4",
+          "url": "https://www.iea.org/files/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf"
+        }
+      },
+      {
+        "label": "Global data center electricity",
+        "value": "945 TWh",
+        "note": "2030 IEA base case, about 3% of global electricity demand",
+        "source": {
+          "label": "IEA Key Questions on Energy and AI, Table A.4",
+          "url": "https://www.iea.org/files/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf"
+        }
+      },
+      {
+        "label": "U.S. grid interconnection queue",
+        "value": ">2,060 GW",
+        "note": "Generation and storage requests at end-2025. Planned projects can withdraw and may never be built.",
+        "source": {
+          "label": "Lawrence Berkeley National Laboratory interconnection queue census",
+          "url": "https://emp.lbl.gov/queues/"
+        }
+      },
+      {
+        "label": "Kazakhstan uranium output share",
+        "value": "39%",
+        "note": "Share of reported global mine production, 2024",
+        "source": {
+          "label": "World Nuclear Association mining production",
+          "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production"
+        }
+      },
+      {
+        "label": "U.S. utility-scale generation by fuel",
+        "value": "41% gas",
+        "note": "2025 EIA mix. Renewables were about 24%, nuclear 18%, and coal 17%. Totals are approximate due to rounding.",
+        "source": {
+          "label": "U.S. EIA 2025 electricity generation and fuel mix",
+          "url": "https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php"
+        }
+      }
+    ],
+    "topics": [
+      {
+        "title": "Global energy demand",
+        "body": "End-use energy includes fuel for transport, heat and manufacturing as well as electricity. Track power demand separately to understand generation needs. The IEA projects that renewables, gas and nuclear together will meet aggregate global electricity demand growth from 2026 through 2030.",
+        "source": {
+          "label": "IEA Electricity 2026",
+          "url": "https://www.iea.org/reports/electricity-2026/executive-summary"
+        }
+      },
+      {
+        "title": "AI and data center demand",
+        "body": "The IEA projects almost twice as much data center electricity use in 2030 as in 2025 and roughly a tripling for AI-focused facilities over the same period. Large campuses can strain a specific substation long before the sector becomes a major share of national or global demand.",
+        "source": {
+          "label": "IEA Key Questions on Energy and AI, 2026",
+          "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary"
+        }
+      },
+      {
+        "title": "Nuclear power",
+        "body": "Reactors supply reliable low-emissions power with high utilization. Keeping an operating plant licensed, uprating output and restarting a closed plant carry different costs and schedules from building a new reactor.",
+        "source": {
+          "label": "IEA Electricity 2026",
+          "url": "https://www.iea.org/reports/electricity-2026/executive-summary"
+        }
+      },
+      {
+        "title": "Natural gas",
+        "body": "Gas plants can dispatch power when demand rises or other generation is scarce. Delivered fuel prices depend on pipeline capacity, weather and regional gas prices. Building a plant also requires a turbine, a fuel connection and permits.",
+        "source": {
+          "label": "IEA Electricity 2026",
+          "url": "https://www.iea.org/reports/electricity-2026/executive-summary"
+        }
+      },
+      {
+        "title": "Uranium and nuclear fuel",
+        "body": "A mine produces uranium concentrate. Conversion, enrichment for many reactor designs, and fabrication turn that material into reactor fuel. Geological concentration and service capacity can constrain supply at different points.",
+        "source": {
+          "label": "World Nuclear Association mining production",
+          "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production"
+        }
+      },
+      {
+        "title": "Renewables and storage",
+        "body": "Wind and solar output follows weather, sunlight and siting conditions. Storage can shift energy across hours. The combination’s ability to serve prolonged peaks depends on stored energy, grid connections and complementary resources.",
+        "source": {
+          "label": "IEA Electricity 2026",
+          "url": "https://www.iea.org/reports/electricity-2026/executive-summary"
+        }
+      },
+      {
+        "title": "Electrical grid infrastructure",
+        "body": "Transmission moves bulk power and distribution delivers it to customers. Interconnection studies, transformers, switchgear and transmission buildouts affect how quickly new generation and load can connect.",
+        "source": {
+          "label": "Lawrence Berkeley National Laboratory interconnection queue census",
+          "url": "https://emp.lbl.gov/queues/"
+        }
+      },
+      {
+        "title": "MW, MWh and capacity factor",
+        "body": "A megawatt measures instantaneous power. A megawatt-hour measures energy delivered over time. A 100 MW plant running at 90% average utilization over 8,760 hours produces 788,400 MWh per year.",
+        "source": {
+          "label": "U.S. EIA measuring electricity",
+          "url": "https://www.eia.gov/energyexplained/electricity/measuring-electricity.php"
+        }
+      },
+      {
+        "title": "Power contracts and investment risk",
+        "body": "A disclosed capacity commitment does not establish utilization, realized prices or revenue. Assess approvals, construction timing, contract conditions and counterparty credit. A pipeline of potential projects carries wider uncertainty than assets in operation.",
+        "source": {
+          "label": "IEA Key Questions on Energy and AI, 2026",
+          "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary"
+        }
+      }
+    ],
+    "demandSeries": [
+      {
+        "year": 2023,
+        "twh": 360,
+        "kind": "estimate"
+      },
+      {
+        "year": 2024,
+        "twh": 416,
+        "kind": "estimate"
+      },
+      {
+        "year": 2025,
+        "twh": 485,
+        "kind": "estimate"
+      },
+      {
+        "year": 2030,
+        "twh": 945,
+        "kind": "projection"
+      }
+    ],
+    "sources": [
+      {
+        "label": "IEA Global Energy Review 2026",
+        "url": "https://www.iea.org/reports/global-energy-review-2026/key-findings"
+      },
+      {
+        "label": "IEA Electricity 2026",
+        "url": "https://www.iea.org/reports/electricity-2026/executive-summary"
+      },
+      {
+        "label": "IEA Key Questions on Energy and AI, 2026",
+        "url": "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary"
+      },
+      {
+        "label": "IEA Key Questions on Energy and AI, Table A.4",
+        "url": "https://www.iea.org/files/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf"
+      },
+      {
+        "label": "Lawrence Berkeley National Laboratory interconnection queue census",
+        "url": "https://emp.lbl.gov/queues/"
+      },
+      {
+        "label": "World Nuclear Association mining production",
+        "url": "https://world-nuclear.org/information-library/nuclear-fuel-cycle/mining-of-uranium/world-uranium-mining-production"
+      },
+      {
+        "label": "U.S. EIA 2025 electricity generation and fuel mix",
+        "url": "https://www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.php"
+      }
+    ]
+  }
+}

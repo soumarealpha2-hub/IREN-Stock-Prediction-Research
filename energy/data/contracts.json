@@ -1,0 +1,896 @@
+{
+  "CEG": [
+    {
+      "customer": "Microsoft",
+      "title": "Crane Clean Energy Center PPA",
+      "status": "Signed • restart pending",
+      "value": "Undisclosed",
+      "capacity": "Approximately 835 MW plant output",
+      "duration": "20 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "2027 restart target, subject to approvals",
+      "source": {
+        "label": "Constellation announcement",
+        "url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html"
+      },
+      "notes": "The PPA supports restarting Three Mile Island Unit 1 in Pennsylvania. Constellation moved the original 2028 target forward to 2027.",
+      "announcementDate": "2024-09-20",
+      "sources": [
+        {
+          "label": "Constellation restart schedule update",
+          "url": "https://investors.constellationenergy.com/static-files/77ba2964-2605-4374-8474-5831f41730da"
+        },
+        {
+          "label": "Constellation Q3 2026 Form 10-Q",
+          "url": "https://constellationenergy.gcs-web.com/static-files/7f18203a-80d7-4d8f-9be2-a6174e92a513"
+        }
+      ],
+      "logo": "/energy/logos/microsoft.png"
+    },
+    {
+      "customer": "Meta",
+      "title": "Clinton Clean Energy Center PPA",
+      "status": "Signed • supply scheduled",
+      "value": "Undisclosed",
+      "capacity": "1,121 MW, including a 30 MW uprate",
+      "duration": "20 years",
+      "expiration": "Approximately 2047 if term starts as scheduled",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Delivery begins June 2027",
+      "source": {
+        "label": "Constellation announcement",
+        "url": "https://investors.constellationenergy.com/news-releases/news-release-details/constellation-meta-sign-20-year-deal-clean-reliable-nuclear"
+      },
+      "notes": "The contract supports continued operation of the existing Illinois nuclear plant after the state zero-emission credit program expires.",
+      "announcementDate": "2025-06-03",
+      "logo": "/energy/logos/meta.png"
+    },
+    {
+      "customer": "Amazon",
+      "title": "Calvert Cliffs nuclear PPA",
+      "status": "Signed • uprate planned",
+      "value": "Undisclosed",
+      "capacity": "690 MW contracted, including 190 MW of new output",
+      "duration": "20 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "New capacity expected in 2030–2032",
+      "source": {
+        "label": "Constellation and Amazon announcement",
+        "url": "https://www.constellationenergy.com/news/2026/09/constellation-and-amazon-announce-20-year-power-purchase-agreement-at-calvert-cliffs.html"
+      },
+      "notes": "The companies also signed a related PJM retail supply agreement. The announced more than $3 billion is Maryland infrastructure investment.",
+      "announcementDate": "2026-09-30",
+      "logo": "/energy/logos/amazon.png"
+    },
+    {
+      "customer": "Google",
+      "title": "PJM multi-plant nuclear uprate PPA",
+      "status": "Signed • uprates planned",
+      "value": "Undisclosed",
+      "capacity": "890 MW of new nuclear capacity across 11 units",
+      "duration": "20 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "First uprate expected by 2028",
+      "source": {
+        "label": "Constellation and Google announcement",
+        "url": "https://investors.constellationenergy.com/news-releases/news-release-details/google-and-constellation-announce-landmark-agreement-bring-890"
+      },
+      "notes": "This agreement represents more than $4.3 billion of announced Constellation investment. The separate 2,700 MW supply deal is existing generation.",
+      "announcementDate": "2026-10-06",
+      "logo": "/energy/logos/google.png"
+    },
+    {
+      "customer": "Google",
+      "title": "PJM existing-generation financial load-following agreement",
+      "status": "Signed • existing fleet",
+      "value": "Undisclosed",
+      "capacity": "2,700 MW existing PJM generation",
+      "duration": "15 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Undisclosed",
+      "source": {
+        "label": "Constellation and Google announcement",
+        "url": "https://investors.constellationenergy.com/news-releases/news-release-details/google-and-constellation-announce-landmark-agreement-bring-890"
+      },
+      "notes": "The two power agreements were announced alongside a separate five-year Google Cloud and Gemini technology alliance.",
+      "announcementDate": "2026-10-06",
+      "logo": "/energy/logos/google.png"
+    },
+    {
+      "customer": "CyrusOne",
+      "title": "Freestone Energy Center data center service",
+      "status": "Signed • planned development",
+      "value": "Undisclosed",
+      "capacity": "380 MW initial service",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Undisclosed",
+      "source": {
+        "label": "Constellation and CyrusOne announcement",
+        "url": "https://investors.constellationenergy.com/news-releases/news-release-details/constellation-and-cyrusone-announce-agreement-support-new-data"
+      },
+      "notes": "Calpine signed the Texas service agreement and an exclusive arrangement for a potential additional 380 MW phase. Separately, the companies previously announced 400 MW at Thad Hill.",
+      "announcementDate": "2026-02-09",
+      "logo": "/energy/logos/cyrusone.png"
+    },
+    {
+      "customer": "Undisclosed customer",
+      "title": "Peak+ energy, capacity and nuclear attributes",
+      "status": "Signed • delivery timing undisclosed",
+      "value": "Undisclosed",
+      "capacity": "270 MW",
+      "duration": "20 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Undisclosed",
+      "source": {
+        "label": "Constellation third-quarter 2026 results",
+        "url": "https://www.constellationenergy.com/news/2026/11/constellation-reports-third-quarter-2026-results.html"
+      },
+      "notes": "",
+      "announcementDate": "2026-11-09"
+    },
+    {
+      "customer": "Walmart",
+      "title": "Dresden nuclear PPA",
+      "status": "Signed • delivery scheduled",
+      "source": {
+        "label": "Walmart and Constellation announcement",
+        "url": "https://corporate.walmart.com/news/2026/06/23/constellation-and-walmart-announce-longterm-agreement-to-support-reliable-emissionsfree-nuclear-energy-in-illinois"
+      },
+      "notes": "The 176 MW is part of Constellation's 920 MW Q2 2026 nuclear PPA cohort.",
+      "value": "Undisclosed",
+      "capacity": "Approximately 176 MW, including 30 MW of uprates",
+      "duration": "Two 15-year terms",
+      "expiration": "Approximately 2044 and 2045 if terms begin as scheduled",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Terms begin in 2029 and 2030",
+      "announcementDate": "2026-06-23",
+      "logo": "/energy/logos/walmart.png"
+    }
+  ],
+  "VST": [
+    {
+      "customer": "Meta",
+      "title": "PJM nuclear fleet PPAs",
+      "status": "Signed • delivery scheduled",
+      "value": "Undisclosed",
+      "capacity": "2,609 MW, including 433 MW of uprates",
+      "duration": "20 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Existing generation starts late 2026 and reaches full volume by end of 2027. Uprates start by 2031 and reach full volume by end of 2034.",
+      "source": {
+        "label": "Vistra Q3 2026 Form 10-Q",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      },
+      "notes": "The deals cover existing units at Perry and Davis-Besse and uprates at Perry, Davis-Besse and Beaver Valley.",
+      "announcementDate": "2026-01-09",
+      "sources": [
+        {
+          "label": "Vistra signing Form 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312526008508/d20785d8k.htm"
+        }
+      ],
+      "logo": "/energy/logos/meta.png"
+    },
+    {
+      "customer": "Amazon Web Services",
+      "title": "Comanche Peak nuclear PPA",
+      "status": "Signed • delivery scheduled",
+      "value": "Undisclosed",
+      "capacity": "1,200 MW",
+      "duration": "20 years, with options for up to 20 additional years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Delivery expected to begin Q4 2027 and reach full capacity by 2032",
+      "source": {
+        "label": "Vistra Q3 2026 Form 10-Q",
+        "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000025/vistra-20260930.htm"
+      },
+      "notes": "Agreement announced September 2025 for output at the Texas nuclear plant.",
+      "logo": "/energy/logos/aws.png"
+    },
+    {
+      "customer": "New Era Energy & Digital",
+      "title": "Texas Critical Data Center PPA",
+      "status": "Signed • conditions precedent",
+      "value": "Undisclosed",
+      "capacity": "200–207 MW",
+      "duration": "20 years from first delivery, then automatic one-year renewals",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Conditions due by December 31, 2027. First delivery date is project-dependent.",
+      "source": {
+        "label": "New Era Form 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026101642/ea0305716-8k_newera.htm"
+      },
+      "notes": "Vistra subsidiary Luminant will source from the Odessa plant, other available sources or ERCOT. Separate development arrangements provide for a conditional 5% nonvoting project interest.",
+      "announcementDate": "2026-09-18",
+      "sources": [
+        {
+          "label": "New Era announcement filed with SEC",
+          "url": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026101642/ea030571601ex99-1.htm"
+        }
+      ],
+      "logo": "/energy/logos/new-era.png"
+    },
+    {
+      "customer": "Amazon Web Services",
+      "title": "Oak Hill Solar PPA",
+      "status": "Signed • facility commissioned",
+      "source": {
+        "label": "Vistra FY2025 results",
+        "url": "https://commercial.vistracorp.com/resources/vistra-reports-fourth-quarter-and-full-year-2025-results/"
+      },
+      "notes": "The facility is on a reclaimed coal mine site and includes a separate solar PPA with AWS.",
+      "value": "Undisclosed",
+      "capacity": "200 MW facility capacity; contracted portion undisclosed",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Vistra reported the facility commissioned in FY2025 results",
+      "logo": "/energy/logos/aws.png"
+    }
+  ],
+  "GEV": [
+    {
+      "customer": "Crusoe",
+      "title": "29 aeroderivative gas turbine packages",
+      "status": "Firm equipment orders • booked",
+      "value": "Undisclosed",
+      "capacity": "Approximately 1 GW across 29 units",
+      "duration": "Not applicable",
+      "expiration": "Not applicable",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "10 units ordered December 2024 and 19 units booked June 2025. Delivery schedule undisclosed.",
+      "source": {
+        "label": "GE Vernova announcement",
+        "url": "https://www.gevernova.com/news/print/pdf/node/143884"
+      },
+      "notes": "Orders cover GE Vernova LM2500XPRESS turbine equipment for data centers.",
+      "announcementDate": "2025-07-22",
+      "logo": "/energy/logos/crusoe.png"
+    },
+    {
+      "customer": "Amazon Web Services",
+      "title": "Electrification and cloud collaboration",
+      "status": "Signed framework • individual projects exploratory",
+      "value": "Undisclosed",
+      "capacity": "Undisclosed",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Undisclosed",
+      "source": {
+        "label": "GE Vernova and AWS announcement",
+        "url": "https://www.gevernova.com/news/press-releases/ge-vernova-aws-accelerate-global-energy-demand"
+      },
+      "notes": "GE Vernova plans to support AWS data center scaling with electrification and consulting. The parties will explore equipment and service opportunities, and AWS will support GE Vernova's cloud migration.",
+      "announcementDate": "2025-02-27",
+      "logo": "/energy/logos/aws.png"
+    },
+    {
+      "customer": "NRG Energy and Kiewit",
+      "title": "Natural gas generation development venture",
+      "status": "Development collaboration • turbine capacity secured",
+      "value": "Undisclosed",
+      "capacity": "5,400 MW of turbine capacity under agreement",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Initial units could operate as early as 2029",
+      "source": {
+        "label": "GE Vernova announcement",
+        "url": "https://www.gevernova.com/news/press-releases/nrg-energy-ge-vernova-kiewit-accelerating-new-generation-capacity-support-demand"
+      },
+      "notes": "NRG reported 5.4 GW of turbine capacity under agreement with GE Vernova and Kiewit-TIC in November 2026. The figure covers equipment capacity and does not establish signed customer offtake for every project.",
+      "announcementDate": "2025-02-26",
+      "sources": [
+        {
+          "label": "NRG Q3 2026 investor presentation",
+          "url": "https://investors.nrg.com/static-files/62add0b5-8d88-4e98-aa00-2e22aaa89f22"
+        }
+      ],
+      "logos": [
+        "/energy/logos/nrg.png",
+        "/energy/logos/kiewit.png"
+      ]
+    },
+    {
+      "customer": "Duke Energy",
+      "title": "7HA natural gas turbine arrangement",
+      "status": "Announced procurement arrangement",
+      "value": "Undisclosed",
+      "capacity": "Pathway to up to 11 7HA turbines, in addition to 8 already secured",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Undisclosed",
+      "source": {
+        "label": "Duke Energy announcement",
+        "url": "https://news.duke-energy.com/releases/duke-energy-and-ge-vernova-announce-significant-arangement-for-gas-turbines-and-associated-equipment"
+      },
+      "notes": "Project decisions depend on Duke's resource plans. The announcement did not specify contracted MW for the new arrangement.",
+      "logo": "/energy/logos/duke-energy.png"
+    }
+  ],
+  "CCJ": [
+    {
+      "customer": "India Department of Atomic Energy",
+      "title": "Uranium ore concentrate supply",
+      "status": "Signed • delivery scheduled",
+      "value": "Approximately C$2.6B estimated at announcement",
+      "capacity": "Nearly 22 million lb of U₃O₈ total",
+      "duration": "9 years",
+      "expiration": "2035",
+      "expectedRevenue": "C$2.6B indicative total sales value at announcement; actual revenue depends on market-linked pricing and FX",
+      "timeline": "2027–2035 expected deliveries",
+      "source": {
+        "label": "Cameco announcement",
+        "url": "https://www.cameco.com/media/news/cameco-signs-long-term-uranium-supply-agreement-with-india"
+      },
+      "notes": "Cameco's estimate uses US$86.95/lb uranium and USD/CAD 1.36. The estimate is not fixed consideration.",
+      "announcementDate": "2026-03-02",
+      "logo": "/energy/logos/india-dae.png"
+    },
+    {
+      "customer": "Energoatom",
+      "title": "Ukraine uranium and conversion supply",
+      "status": "Signed • delivery term underway",
+      "value": "Undisclosed",
+      "capacity": "100% of UF₆ requirements for nine named reactors",
+      "duration": "12 years",
+      "expiration": "2035",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "2024–2035 agreement term",
+      "source": {
+        "label": "Cameco announcement",
+        "url": "https://www.cameco.com/sites/default/files/2024-04/2023_02_08_Cameco-Energoatom_Supply_Contract.pdf"
+      },
+      "notes": "Covers Rivne, Khmelnytskyy and South Ukraine plants and includes uranium and conversion services. Zaporizhzhia reactors are outside the firm nine-reactor scope. Cameco reported the agreement was finalized and signed in March 2023.",
+      "announcementDate": "2023-02-08",
+      "sources": [
+        {
+          "label": "Cameco Form 40-F confirming signature",
+          "url": "https://www.cameco.com/sites/default/files/2024-03/cameco-2022-40F.pdf"
+        }
+      ],
+      "logo": "/energy/logos/energoatom.png"
+    },
+    {
+      "customer": "China Nuclear International Corporation",
+      "title": "Uranium supply agreement",
+      "status": "Signed • commercial terms undisclosed",
+      "value": "Undisclosed",
+      "capacity": "Undisclosed",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Undisclosed",
+      "source": {
+        "label": "Cameco announcement",
+        "url": "https://www.cameco.com/media/news/cameco-marks-uranium-supply-agreement-with-china-nuclear-international-corporation"
+      },
+      "notes": "Cameco included contract volumes in its aggregate long-term order book. The company did not identify a stand-alone volume or price.",
+      "announcementDate": "2023-10-29"
+    },
+    {
+      "customer": "U.S. Department of Commerce and Brookfield",
+      "title": "Westinghouse reactor deployment partnership",
+      "status": "Binding term sheet • definitive projects conditional",
+      "value": "At least US$80B of potential reactor construction value under vesting conditions",
+      "capacity": "Undisclosed",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Cameco contract revenue undisclosed",
+      "timeline": "Undisclosed",
+      "source": {
+        "label": "Cameco disclosure via Westinghouse",
+        "url": "https://westinghousenuclear.com/about/strategic-partnership/press-releases/cameco/"
+      },
+      "notes": "The participation interest depends on U.S. government final investment decisions and definitive agreements. The construction value is not Cameco revenue.",
+      "announcementDate": "2025-10-28",
+      "sources": [
+        {
+          "label": "Cameco 2025 management discussion and financial statements",
+          "url": "https://www.cameco.com/sites/default/files/documents/CCO-2025-Q4-MDA-FS-Notes.pdf"
+        }
+      ],
+      "logos": [
+        "/energy/logos/commerce.png",
+        "/energy/logos/brookfield.png"
+      ]
+    }
+  ],
+  "TLN": [
+    {
+      "customer": "Amazon Web Services",
+      "title": "Susquehanna nuclear PPA",
+      "status": "Signed • staged ramp",
+      "value": "Approximately US$18B company-indicated notional revenue over the contract",
+      "capacity": "1,920 MW at full contract quantity",
+      "duration": "17 years as described in investor presentation, with extension options",
+      "expiration": "2042",
+      "expectedRevenue": "Approximately US$18B notional lifetime revenue per Talen, subject to ramp and volume",
+      "timeline": "Talen reported transition to the revised front-of-meter PPA in April 2026. Full volume expected no later than 2032.",
+      "source": {
+        "label": "Talen announcement",
+        "url": "https://ir.talenenergy.com/news-releases/news-release-details/talen-energy-expands-nuclear-energy-relationship-amazon"
+      },
+      "notes": "Talen and AWS will explore small modular reactors and additional uprates separately. Those projects are exploratory.",
+      "announcementDate": "2025-06-11",
+      "sources": [
+        {
+          "label": "Talen investor presentation filed with SEC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828025030559/a20250611talenbusinessup.htm"
+        },
+        {
+          "label": "Talen FY2025 Form 10-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000017/tln-20251231.htm"
+        },
+        {
+          "label": "Talen Q2 2026 Form 10-Q",
+          "url": "https://talenenergy.gcs-web.com/static-files/649bfa16-a54e-4997-914b-a8a5d2e00900"
+        }
+      ],
+      "logo": "/energy/logos/aws.png"
+    },
+    {
+      "customer": "PJM Interconnection",
+      "title": "Brandon Shores and H.A. Wagner reliability arrangements",
+      "status": "FERC-approved • operating",
+      "value": "Undisclosed",
+      "capacity": "Undisclosed",
+      "duration": "June 2025 to May 2029, subject to earlier transmission upgrades",
+      "expiration": "May 31, 2029, or earlier if transmission upgrades enter service",
+      "expectedRevenue": "Talen expected US$145M/year for Brandon Shores and US$35M/year for H.A. Wagner, including some incentives",
+      "timeline": "Arrangements began June 1, 2025",
+      "source": {
+        "label": "Talen Form 10-Q",
+        "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828025038626/tln-20250630.htm"
+      },
+      "notes": "Reliability-must-run arrangements keep the facilities available while transmission upgrades are completed.",
+      "logo": "/energy/logos/pjm.png"
+    }
+  ],
+  "BE": [
+    {
+      "customer": "Oracle",
+      "title": "Solid oxide fuel cell supply master services agreement",
+      "status": "Signed • 1.2 GW contracted; further volume contemplated",
+      "value": "Undisclosed",
+      "capacity": "1,200 MW initially contracted; up to 2,800 MW under the master agreement",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Initial U.S. deployment underway in April 2026 and expected to continue into 2027",
+      "source": {
+        "label": "Bloom Energy announcement",
+        "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Bloom-Energy-and-Oracle-Expand-Strategic-Partnership-to-Deploy-up-to-2-8-GW-to-Accelerate-AI-Infrastructure-Build-Out/default.aspx"
+      },
+      "notes": "The master agreement sets a ceiling. The potential additional 1.6 GW is separate from the initial contract quantity.",
+      "announcementDate": "2026-04-13",
+      "logo": "/energy/logos/oracle.png"
+    },
+    {
+      "customer": "NTT DATA",
+      "title": "Onsite fuel cells for global data center projects",
+      "status": "Announced agreement • initial shipments scheduled",
+      "value": "Undisclosed",
+      "capacity": "900 MW",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "First shipments expected in 2027",
+      "source": {
+        "label": "Bloom Energy and NTT DATA announcement",
+        "url": "https://www.bloomenergy.com/news/ntt-data-announces-agreement-with-bloom-energy-for-900-mw-of-onsite-power-generation-across-multiple-data-center-projects/"
+      },
+      "notes": "",
+      "announcementDate": "2026-11-05",
+      "logo": "/energy/logos/ntt-data.png"
+    },
+    {
+      "customer": "American Electric Power",
+      "title": "Wyoming fuel cell purchase",
+      "status": "Signed • unconditional equipment purchase",
+      "value": "Approximately US$2.65B purchase agreement",
+      "capacity": "Substantial portion of a 1 GW option, according to AEP",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Project expected near Cheyenne, Wyoming. Delivery dates undisclosed in the cited filing.",
+      "source": {
+        "label": "AEP Q3 2026 Form 10-Q",
+        "url": "https://www.sec.gov/Archives/edgar/data/92487/000000490426000072/aep-20260930.htm"
+      },
+      "notes": "AEP separately signed a 20-year power offtake agreement with an unnamed third party that covers all output. That term applies to AEP's offtake arrangement.",
+      "sources": [
+        {
+          "label": "Bloom original AEP supply agreement announcement",
+          "url": "https://www.bloomenergy.com/news/bloom-energy-announces-gigawatt-fuel-cell-procurement-agreement-with-aep-to-power-ai-data-centers/"
+        }
+      ],
+      "logo": "/energy/logos/aep.png"
+    },
+    {
+      "customer": "Brookfield",
+      "title": "AI infrastructure financing framework",
+      "status": "Expanded framework • individual projects and orders vary",
+      "value": "US$25B financing framework, increased from US$5B",
+      "capacity": "Undisclosed",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Undisclosed",
+      "source": {
+        "label": "Bloom Energy and Brookfield announcement",
+        "url": "https://investor.bloomenergy.com/press-releases/press-release-details/2026/Brookfield-and-Bloom-Energy-Expand-AI-Infrastructure-Partnership-to-25-Billion-Fivefold-Increase-to-Build-and-Finance-Rapid-Power-for-AI-Infrastructure/default.aspx"
+      },
+      "notes": "The framework funds AI infrastructure power projects. The amount is available project financing rather than a guaranteed purchase order for Bloom.",
+      "announcementDate": "2026-06-30",
+      "logo": "/energy/logos/brookfield.png"
+    }
+  ],
+  "OKLO": [
+    {
+      "customer": "Meta",
+      "title": "Pike County nuclear campus prepayment agreement",
+      "status": "Signed prepayment agreement • project in development",
+      "value": "Undisclosed",
+      "capacity": "Up to 1,200 MW project target",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Preconstruction scheduled for 2026; first phase as early as 2030, with potential full capacity by 2034",
+      "source": {
+        "label": "Oklo announcement",
+        "url": "https://oklo.com/newsroom/oklo-meta-announce-agreement-in-support-of-1-2-gw-nuclear-energy-development-in-southern-ohio"
+      },
+      "notes": "The signed agreement enables project and fuel prepayments. Full campus capacity depends on licensing, financing and deployment.",
+      "announcementDate": "2026-01-05",
+      "sources": [
+        {
+          "label": "Oklo SEC prospectus supplement",
+          "url": "https://www.sec.gov/Archives/edgar/data/1849056/000110465926106909/tm2625056-3_424b5.htm"
+        }
+      ],
+      "logo": "/energy/logos/meta.png"
+    },
+    {
+      "customer": "Switch",
+      "title": "Aurora master power agreement",
+      "status": "Nonbinding master agreement",
+      "value": "Undisclosed",
+      "capacity": "Up to 12,000 MW deployment target",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Deployment framework through 2044",
+      "source": {
+        "label": "Oklo announcement",
+        "url": "https://oklo.com/newsroom/news-details/2024/Oklo-and-Switch-Form-Landmark-Strategic-Relationship-to-Deploy-12-Gigawatts-of-Advanced-Nuclear-Power-One-of-the-Largest-Corporate-Clean-Power-Agreements-Ever-Signed/default.aspx"
+      },
+      "notes": "Oklo and Switch intend to negotiate definitive project-specific arrangements. The headline capacity represents a development target.",
+      "logo": "/energy/logos/switch.png"
+    },
+    {
+      "customer": "Equinix",
+      "title": "Advanced nuclear power letter of intent",
+      "status": "Nonbinding letter of intent",
+      "value": "US$25M potential prepayment disclosed in investor slides",
+      "capacity": "Up to 500 MW under the disclosed letter of intent",
+      "duration": "20 years under the proposed PPA",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Undisclosed",
+      "source": {
+        "label": "Oklo SEC prospectus supplement",
+        "url": "https://www.sec.gov/Archives/edgar/data/1849056/000110465926106909/tm2625056-3_424b5.htm"
+      },
+      "notes": "Oklo's SEC prospectus identifies the signed letter of intent as nonbinding. The 2025 investor deck describes a possible prepayment and proposed term. Definitive pricing and delivery remain unconfirmed.",
+      "sources": [
+        {
+          "label": "Oklo investor presentation filed with SEC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1849056/000110465925027276/tm2510004d1_ex99-1.htm"
+        }
+      ],
+      "logo": "/energy/logos/equinix.png"
+    },
+    {
+      "customer": "Centrus Energy",
+      "title": "HALEU fuel supply agreements",
+      "status": "Signed definitive contracts • deliveries scheduled",
+      "value": "Prepayments agreed; amount undisclosed",
+      "capacity": "Fuel for up to five Aurora powerhouses for multiple years",
+      "duration": "Multiple years; exact term undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Not applicable to Oklo as buyer",
+      "timeline": "Deliveries scheduled to begin in 2029",
+      "source": {
+        "label": "Oklo definitive agreement announcement",
+        "url": "https://oklo.com/newsroom/oklo-centrus-secure-fuel-supply-for-aurora-powerhouse-deployment-in-ohio"
+      },
+      "notes": "The definitive contracts replace the June 2026 letter of intent. Meta’s prepayment supports procurement for the first Ohio campus phase. Oklo will prepay Centrus to support new enrichment capacity.",
+      "logo": "/energy/logos/centrus.png"
+    }
+  ],
+  "ETN": [
+    {
+      "customer": "NVIDIA",
+      "title": "Eaton Beam Rubin DSX AI factory power and cooling",
+      "status": "Technology collaboration • platform announced",
+      "value": "Undisclosed",
+      "capacity": "Undisclosed",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Eaton unveiled the platform at NVIDIA GTC in March 2026",
+      "source": {
+        "label": "Eaton announcement",
+        "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-collaborates-with-nvidia-to-unveil-its-beam-rubin-dsx-platform.html"
+      },
+      "notes": "The platform supports power distribution and cooling from the grid to the chip. Eaton's 100 GW potential grid flexibility figure describes the broader market.",
+      "announcementDate": "2026-03-16",
+      "logo": "/assets/institutions/nvidia.png"
+    },
+    {
+      "customer": "Microsoft",
+      "title": "Grid-interactive UPS collaboration",
+      "status": "Signed strategic framework",
+      "value": "Undisclosed",
+      "capacity": "Undisclosed",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Expanded collaboration announced in 2022",
+      "source": {
+        "label": "Eaton announcement",
+        "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2022/eaton-to-expand-collaboration-with-microsoft-on-grid-interactive.html"
+      },
+      "notes": "The companies collaborate on grid-interactive uninterruptible power supplies and digital and sustainability initiatives.",
+      "logo": "/energy/logos/microsoft.png"
+    },
+    {
+      "customer": "Flexnode",
+      "title": "Modular data center infrastructure supply",
+      "status": "Announced commercial collaboration",
+      "value": "Undisclosed",
+      "capacity": "Undisclosed",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Undisclosed",
+      "source": {
+        "label": "Eaton announcement",
+        "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-expands-modular-data-center-offering.html"
+      },
+      "notes": "Eaton will supply power backup, racks and cable management for Flexnode modules. The announcement did not specify order quantities.",
+      "announcementDate": "2026-01-28",
+      "logo": "/energy/logos/flexnode.png"
+    },
+    {
+      "customer": "Siemens Energy",
+      "title": "Modular power infrastructure collaboration",
+      "status": "Signed collaboration agreement",
+      "source": {
+        "label": "Eaton announcement",
+        "url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2025/eaton-and-siemens-energy-join-forces-to-provide-power-and-technology.html"
+      },
+      "notes": "Siemens Energy supplies onsite generation. Eaton provides switchgear, UPS, busways, racks and supporting services for modular data center construction.",
+      "value": "Undisclosed",
+      "capacity": "Undisclosed",
+      "duration": "Undisclosed",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Undisclosed",
+      "announcementDate": "2025-06-03",
+      "logo": "/energy/logos/siemens-energy.png"
+    }
+  ],
+  "EQT": [
+    {
+      "customer": "Commonwealth LNG",
+      "title": "Cameron liquefaction sale and purchase agreement",
+      "status": "Signed • export facility under development",
+      "value": "Henry Hub indexed; total value undisclosed",
+      "capacity": "Approximately 2 million tonnes per annum LNG under amended terms",
+      "duration": "20 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Supply expected to commence in 2030, subject to terminal completion",
+      "source": {
+        "label": "EQT announcement",
+        "url": "https://ir.eqt.com/investor-relations/news/news-release-details/2025/EQT-Signs-20-Year-LNG-Sale-and-Purchase-Agreement-with-Commonwealth-LNG/default.aspx"
+      },
+      "notes": "EQT buys free-on-board LNG for international marketing. The publicly filed amended summary increased capacity from the originally announced 1 MTPA to approximately 2 MTPA.",
+      "announcementDate": "2025-09-08",
+      "sources": [
+        {
+          "label": "Amended SPA public summary filed with U.S. DOE",
+          "url": "https://www.energy.gov/sites/default/files/2026-06/Commonwealth-EQT%20Amendment%20Cover%20Letter%20%26%20Public%20Summary-%206.9.2026.pdf"
+        }
+      ],
+      "logo": "/energy/logos/commonwealth-lng.png"
+    },
+    {
+      "customer": "Ignitis Group",
+      "title": "Long-term LNG sales agreement",
+      "status": "Signed • delivery scheduled",
+      "value": "Undisclosed",
+      "capacity": "One LNG cargo per year per EQT (approximately 1 TWh/year per Ignitis)",
+      "duration": "10 years",
+      "expiration": "2036",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "2027–2036",
+      "source": {
+        "label": "EQT Q3 2026 results",
+        "url": "https://ir.eqt.com/newsroom/news-releases/news-release-details/2026/EQT-Reports-Third-Quarter-2026-Results/default.aspx"
+      },
+      "notes": "The EQT earnings presentation specifies one cargo per year. Ignitis reports 10 cargoes and approximately 1 TWh per year, though one sentence in its release describes the cargo count inconsistently.",
+      "sources": [
+        {
+          "label": "Ignitis Group 9M 2026 results",
+          "url": "https://ignitisgrupe.lt/en/news/ignitis-group-delivers-robust-9m-2026-financial-performance-continues-strategic-progress-and"
+        },
+        {
+          "label": "EQT Q3 2026 investor presentation",
+          "url": "https://s205.q4cdn.com/630272887/files/content_files/EQT-Q3-2026-Earnings-Presentation.pdf"
+        }
+      ],
+      "logo": "/energy/logos/ignitis-group.png"
+    },
+    {
+      "customer": "Texas LNG",
+      "title": "Brownsville liquefaction tolling",
+      "status": "Signed binding tolling agreement • project in development",
+      "value": "Undisclosed",
+      "capacity": "0.5 million tonnes per annum LNG",
+      "duration": "20 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Limited early works began July 2026. The September 2026 report shows the FERC in-service deadline of November 22, 2029.",
+      "source": {
+        "label": "Texas LNG amended tolling agreement filed with U.S. DOE",
+        "url": "https://www.energy.gov/sites/default/files/2026-04/2026.04.17%20Cover%20Letter%20DOE-%20AR%20LTSA%20EQT%20Final%20and%20Summary.pdf"
+      },
+      "notes": "The 2026 amended and restated contract supersedes EQT's original heads-of-agreement announcement.",
+      "announcementDate": "2026-03-20",
+      "sources": [
+        {
+          "label": "Texas LNG September 2026 progress report",
+          "url": "https://www.energy.gov/sites/default/files/2026-10/Texas%20LNG%20Progress%20Report%20%28H1%202026%29_Final.pdf"
+        }
+      ],
+      "logo": "/energy/logos/texas-lng.png"
+    }
+  ],
+  "WMB": [
+    {
+      "customer": "Undisclosed customer",
+      "title": "Socrates data center infrastructure",
+      "status": "Agreement disclosed • partly in service",
+      "value": "Undisclosed",
+      "capacity": "556 MW ISO capacity",
+      "duration": "10 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Plato South in service; Plato North targeted Q4 2026",
+      "source": {
+        "label": "Williams Q3 2026 presentation, slide 19",
+        "url": "https://investor.williams.com/static-files/2f9652f4-03fd-4b3a-b395-fbbcb5c7f642"
+      },
+      "notes": "The agreement covers gas supply, pipeline and generation. The cited capacity excludes battery storage."
+    },
+    {
+      "customer": "Undisclosed customer",
+      "title": "Apollo data center infrastructure",
+      "status": "Agreement disclosed • in development",
+      "value": "Undisclosed",
+      "capacity": "490 MW ISO capacity",
+      "duration": "12.5 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Targeted second half of 2027",
+      "source": {
+        "label": "Williams Q3 2026 presentation, slide 19",
+        "url": "https://investor.williams.com/static-files/2f9652f4-03fd-4b3a-b395-fbbcb5c7f642"
+      },
+      "notes": "The agreement covers gas supply, pipeline and generation. The cited capacity excludes battery storage."
+    },
+    {
+      "customer": "Undisclosed customer",
+      "title": "Aquila data center infrastructure",
+      "status": "Agreement disclosed • in development",
+      "value": "Undisclosed",
+      "capacity": "520 MW ISO capacity",
+      "duration": "12.5 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Two phases targeted for second half of 2027 and first half of 2028",
+      "source": {
+        "label": "Williams Q3 2026 presentation, slide 19",
+        "url": "https://investor.williams.com/static-files/2f9652f4-03fd-4b3a-b395-fbbcb5c7f642"
+      },
+      "notes": "The agreement covers gas supply, pipeline and generation. The cited capacity excludes battery storage."
+    },
+    {
+      "customer": "Undisclosed customer",
+      "title": "Socrates the Younger data center infrastructure",
+      "status": "Agreement disclosed • in development",
+      "value": "Undisclosed",
+      "capacity": "340 MW ISO capacity",
+      "duration": "10 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Targeted second half of 2028",
+      "source": {
+        "label": "Williams Q3 2026 presentation, slide 19",
+        "url": "https://investor.williams.com/static-files/2f9652f4-03fd-4b3a-b395-fbbcb5c7f642"
+      },
+      "notes": "The agreement covers gas supply, pipeline and generation. The cited capacity excludes battery storage."
+    },
+    {
+      "customer": "Undisclosed customer",
+      "title": "Neo data center infrastructure",
+      "status": "Agreement disclosed • in development",
+      "value": "Undisclosed",
+      "capacity": "682 MW ISO capacity",
+      "duration": "12.5 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Two phases targeted for second half of 2028",
+      "source": {
+        "label": "Williams Q3 2026 presentation, slide 19",
+        "url": "https://investor.williams.com/static-files/2f9652f4-03fd-4b3a-b395-fbbcb5c7f642"
+      },
+      "notes": "The agreement covers gas supply, pipeline and generation. The cited capacity excludes battery storage."
+    },
+    {
+      "customer": "Undisclosed customer",
+      "title": "Atlas data center infrastructure",
+      "status": "Agreement disclosed • in development",
+      "value": "Undisclosed",
+      "capacity": "Up to 164 MMcf/d",
+      "duration": "13 years",
+      "expiration": "Undisclosed",
+      "expectedRevenue": "Undisclosed",
+      "timeline": "Targeted Q4 2026",
+      "source": {
+        "label": "Williams Q3 2026 presentation, slide 19",
+        "url": "https://investor.williams.com/static-files/2f9652f4-03fd-4b3a-b395-fbbcb5c7f642"
+      },
+      "notes": "Atlas covers natural gas infrastructure."
+    },
+    {
+      "customer": "Blackstone",
+      "title": "Power Innovation joint venture investment",
+      "status": "Signed investment agreement",
+      "value": "US$5.34B committed capital for a 49% noncontrolling equity interest",
+      "capacity": "Five projects totaling 2,588 MW ISO capacity per Q3 2026 presentation",
+      "duration": "Not applicable",
+      "expiration": "Not applicable",
+      "expectedRevenue": "Not applicable",
+      "timeline": "Underlying projects phase into service over 2026–2028",
+      "source": {
+        "label": "Williams announcement",
+        "url": "https://investor.williams.com/news-releases/news-release-details/williams-announces-534-billion-investment-power-innovation-joint"
+      },
+      "notes": "Blackstone's funding group includes Apollo and accounts managed by KKR. The commitment is for investment and includes roughly US$0.9B in consideration to Williams.",
+      "announcementDate": "2026-07-13",
+      "sources": [
+        {
+          "label": "Williams Q3 2026 presentation, slide 19",
+          "url": "https://investor.williams.com/static-files/2f9652f4-03fd-4b3a-b395-fbbcb5c7f642"
+        }
+      ],
+      "logo": "/energy/logos/blackstone.png"
+    }
+  ]
+}

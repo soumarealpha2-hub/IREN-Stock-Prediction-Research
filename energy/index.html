@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Company financials, power agreements, institutional ownership and 2030 valuation scenarios across the energy sector.">
+  <title>Energy &amp; Power Intelligence | Village Research</title>
+  <link rel="stylesheet" href="./navigation.css">
+  <link rel="stylesheet" href="./energy.css">
+  <script defer src="./energy.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="brand" href="/">
+        <img src="./village-mark.webp" alt="" width="48" height="48">
+        <span>Village Research</span>
+      </a>
+    </div>
+  </header>
+  <main>
+    <nav class="vr-division-nav" aria-label="Research divisions">
+      <a href="/">AI Computing</a>
+      <a href="/energy/" aria-current="page">Energy &amp; Power</a>
+    </nav>
+
+    <div class="intro">
+      <h1>Energy &amp; Power Intelligence</h1>
+      <p>Track the companies that generate power, supply fuel and equip the grid for rising electricity demand.</p>
+      <nav class="section-nav" aria-label="Energy research sections">
+        <a href="#energy-sector">Supply and demand</a>
+        <a href="#energy-profile">Company profiles</a>
+        <a href="#energy-comparison">Compare companies</a>
+        <a href="#energy-deal-database">Contract database</a>
+        <a href="#energy-101">Energy 101</a>
+        <a href="#energy-sources">Sources</a>
+      </nav>
+    </div>
+
+    <p id="energy-status" role="status">Loading energy research…</p>
+    <noscript><p>Enable JavaScript to browse the research data and valuation model.</p></noscript>
+
+    <section id="energy-sector" class="section" aria-labelledby="energy-sector-heading">
+      <h2 id="energy-sector-heading">Supply and demand</h2>
+      <div id="energy-sector-metrics" class="summary-grid"></div>
+      <div id="energy-demand-chart"></div>
+      <div id="energy-sector-topics" class="topic-grid"></div>
+    </section>
+
+    <section id="energy-profile" class="section" aria-labelledby="energy-profile-heading">
+      <div class="section-heading">
+        <h2 id="energy-profile-heading">Company profiles</h2>
+        <label for="energy-company-select" class="select-label">Company
+          <select id="energy-company-select" disabled></select>
+        </label>
+      </div>
+      <div id="energy-business" class="profile-intro"></div>
+
+      <section id="energy-financials" class="profile-section" aria-labelledby="energy-financials-heading">
+        <div class="section-heading">
+          <h3 id="energy-financials-heading">Financial performance</h3>
+          <label for="energy-metric-select" class="select-label">Chart metric
+            <select id="energy-metric-select">
+              <option value="revenueB">Revenue</option>
+              <option value="netIncomeB">Net income</option>
+              <option value="operatingCashFlowB">Operating cash flow</option>
+              <option value="debtB">Gross debt</option>
+              <option value="capexB">Capital expenditures</option>
+              <option value="freeCashFlowB">Free cash flow</option>
+            </select>
+          </label>
+        </div>
+        <div id="energy-chart"></div>
+        <div id="energy-financial-table"></div>
+      </section>
+
+      <section id="energy-valuation" class="profile-section" aria-labelledby="energy-valuation-heading">
+        <h3 id="energy-valuation-heading">Valuation through 2030</h3>
+        <div id="energy-model"></div>
+      </section>
+
+      <section id="energy-contracts" class="profile-section" aria-labelledby="energy-contracts-heading">
+        <h3 id="energy-contracts-heading">Contracts and partnerships</h3>
+        <div id="energy-contracts-content"></div>
+      </section>
+      <section id="energy-ownership" class="profile-section" aria-labelledby="energy-ownership-heading">
+        <h3 id="energy-ownership-heading">Institutional ownership</h3>
+        <div id="energy-ownership-content"></div>
+      </section>
+
+      <section id="energy-risk" class="profile-section" aria-labelledby="energy-risk-heading">
+        <h3 id="energy-risk-heading">Investment risks</h3>
+        <div id="energy-risks-content"></div>
+      </section>
+    </section>
+
+    <section id="energy-comparison" class="section" aria-labelledby="energy-comparison-heading">
+      <h2 id="energy-comparison-heading">Compare companies</h2>
+      <p id="energy-comparison-note" class="note"></p>
+      <div id="energy-comparison-content"></div>
+    </section>
+
+    <section id="energy-deal-database" class="section" aria-labelledby="energy-deal-heading">
+      <div class="section-heading">
+        <h2 id="energy-deal-heading">Contract database</h2>
+        <label for="energy-deal-filter" class="select-label">Filter contracts
+          <input id="energy-deal-filter" type="search" placeholder="Company, customer or status">
+        </label>
+      </div>
+      <div id="energy-deal-content"></div>
+    </section>
+
+    <section id="energy-101" class="section" aria-labelledby="energy-101-heading">
+      <h2 id="energy-101-heading">Energy 101</h2>
+      <div class="topic-grid">
+        <article class="topic"><h3>Megawatts and megawatt-hours</h3><p>A megawatt (MW) measures power at a point in time. A megawatt-hour (MWh) measures energy. A 100 MW facility running at full output for ten hours produces 1,000 MWh.</p></article>
+        <article class="topic"><h3>Nuclear fuel and generation</h3><p>Uranium is mined and processed into fuel before it reaches a reactor. Contracting for fuel, operating a reactor and building a new reactor are different businesses with different risks.</p></article>
+        <article class="topic"><h3>Natural gas and power</h3><p>Producers extract gas, pipelines move it and power plants burn it to generate electricity. Gas plants can adjust output as demand changes, subject to fuel availability and operating constraints.</p></article>
+        <article class="topic"><h3>Renewables and storage</h3><p>Wind and solar output varies with weather and daylight. Batteries can shift energy from one hour to another. Their power and storage duration determine how large a gap they can cover.</p></article>
+        <article class="topic"><h3>The electrical grid</h3><p>Generation feeds high-voltage transmission lines. Substations and transformers lower the voltage for distribution to customers. A utility can have access to generation and still face a local grid bottleneck.</p></article>
+        <article class="topic"><h3>Power purchase agreements</h3><p>A PPA sets terms for buying electricity. Pay attention to when deliveries begin, how prices are set and whether the contract depends on permits, construction or interconnection.</p></article>
+      </div>
+    </section>
+
+    <section id="energy-sources" class="section" aria-labelledby="energy-sources-heading">
+      <h2 id="energy-sources-heading">Research sources</h2>
+      <div id="energy-sources-content"></div>
+    </section>
+  </main>
+</body>
+</html>

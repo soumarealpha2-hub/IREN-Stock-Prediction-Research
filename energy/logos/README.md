@@ -1,0 +1,59 @@
+# Energy & Power logo sources
+
+These local display assets identify companies, public agencies and report filers in the Energy & Power research tables. Some SVGs were rendered to PNG, and white marks were placed on a dark background for readability. The India Department of Atomic Energy uses the State Emblem of India in its official masthead. Existing institutional assets are documented in [the institutional logo sources](../../assets/institutions/README.md).
+
+| Asset | Published mark |
+| --- | --- |
+| `aep.png` | https://www.aep.com/logos/aep-logo-red-gray.svg |
+| `amazon.png` | https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg |
+| `ameriprise.png` | https://www.ameriprise.com/webfiles/1794543385910/assets/ampcom/images/amp-schema.png |
+| `aws.png` | https://assets.aboutamazon.com/ff/9f/c88d0578474381e7ee1b6d337d23/aws-logo-rgb.png |
+| `be.png` | https://www.bloomenergy.com/wp-content/uploads/Logo.svg |
+| `blackstone.png` | https://www.blackstone.com/ |
+| `bmo.png` | https://www.bmo.com/dam_asset/asset/9388c217-ca0f-4fbc-90bf-12547e7930e7/bmo-blue-on-transparent-en.svg |
+| `brookfield.png` | https://www.brookfield.com/ |
+| `capital-group.png` | https://www.capitalgroup.com/ |
+| `ccj.png` | https://www.cameco.com/themes/custom/duchess/images/header-cco-logo-color.png |
+| `ceg.png` | https://s7d1.scene7.com/is/image/constellation/constellationLogo2025-1?fmt=png-alpha |
+| `centrus.png` | https://www.centrusenergy.com/wp-content/uploads/2026/09/logo.svg |
+| `commerce.png` | https://upload.wikimedia.org/wikipedia/commons/1/1a/Seal_of_the_United_States_Department_of_Commerce.svg |
+| `commonwealth-lng.png` | https://www.woodside.com/docs/default-source/media-releases/media-release---commonwealth-lng-signs-agreements-with-woodside.pdf |
+| `crusoe.png` | https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6924c42b258756b52fe18dda_crusoe-logo-p-800.webp |
+| `cyrusone.png` | https://www.cyrusone.com/hubfs/CyrusOne/CyrusOne-logo.svg |
+| `duke-energy.png` | https://upload.wikimedia.org/wikipedia/commons/2/2e/Duke_Energy_logo.svg |
+| `ecp.png` | https://www.ecpgp.com/content/dam/bridgepoint/ecp/images/logo/ecp-logo.svg |
+| `energoatom.png` | https://energoatom.com.ua/images/logo-mobile-en.webp |
+| `eqt.png` | https://cdn.prod.website-files.com/6751b0d7add5edb1f0141aef/6761ae14cc26e2b535e58903_EQT%20Blue.webp |
+| `equinix.png` | https://www.equinix.com/ |
+| `etn.png` | https://www.eaton.com/content/dam/eaton/global/logos/eaton-logo-small.png |
+| `fidelity.png` | https://www.fidelity.com/bin-public/060_www_fidelity_com/images/Fidelity-footer-logo.png |
+| `fisher.png` | https://edge.sitecorecloud.io/fisherinves7b70-fisher9c29-prod5fd1-8c3b/media/Project/FisherInvestments/FisherInvestments/images/na/logo/Fisher-investments-official-logo.svg?iar=0 |
+| `flexnode.png` | https://cdn.prod.website-files.com/6a7b27079773e30171ba9b8a/6aee28401f0f9f1f252f1005_flexnode-logo-horizontal-2a2a2a.svg |
+| `geode.png` | https://www.geodecapital.com/hubfs/website-migration/branding/logo-mobile-black.png |
+| `gev.png` | https://www.gevernova.com/themes/custom/ge_vernova_unified/assets/images/ge_vernova_logo_181x41.svg |
+| `google.png` | https://www.gstatic.com/marketing-cms/assets/images/f5/d3/a7f9db7045429cb6dc6be56bdcbe/google-logo-about.svg |
+| `ignitis-group.png` | https://ignitisgrupe.lt/profiles/ignitisgrupe/themes/ignitis_ignitisgrupe/images/logos/logo_en.svg |
+| `india-dae.png` | https://dae.gov.in/wp-content/themes/sdo-theme/images/emblem.svg |
+| `jpmorgan.png` | https://www.jpmorganchase.com/content/dam/jpmorganchase/images/logos/jpmc-logo.svg |
+| `kiewit.png` | https://www.kiewit.com/ |
+| `meta.png` | https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg |
+| `microsoft.png` | https://raw.githubusercontent.com/microsoft/opensource.microsoft.com/main/src/assets/images/Microsoft_logo.svg |
+| `mirae.png` | https://images.ctfassets.net/9gigg57dwmx9/50YBnu7jKlOtLc2tr4apg0/776e934a9348d71478fd8322b19eaf55/mirae-logo.svg |
+| `new-era.png` | https://www.newerainfra.ai/ |
+| `nrg.png` | https://upload.wikimedia.org/wikipedia/commons/5/5b/NRG_Energy_logo.svg |
+| `ntt-data.png` | https://www.nttdata.com/global/en/-/media/assets/images/header_logo.svg |
+| `oklo.png` | https://oklo.com/oklo-logo.svg |
+| `oracle.png` | https://upload.wikimedia.org/wikipedia/commons/2/29/Oracle_wordmark.svg |
+| `pjm.png` | https://www.pjm.com/assets/MVC/responsive/img/pjm-logo.png |
+| `rbc.png` | https://www.rbc.com/en/wp-content/themes/rbc/img/logos/rbc-logo-shield.svg |
+| `rubric.png` | https://www.rubriccapital.com/images/rubric-logo.png |
+| `sachem-head.png` | https://www.sachemhead.com/src/assets/img/logo.svg |
+| `siemens-energy.png` | https://upload.wikimedia.org/wikipedia/commons/f/f2/Siemens_Energy_logo.svg |
+| `switch.png` | https://www.switch.com/wp-content/uploads/2025/07/Switch-Logo-Blue.svg |
+| `texas-lng.png` | https://texaslng.com/images/logo.png |
+| `tln.png` | https://www.talenenergy.com/wp-content/uploads/2024/06/talen-logo-white.png |
+| `vaneck.png` | https://www.vaneck.com/static/corp/images/logo-blue.svg |
+| `vst.png` | https://www.sec.gov/Archives/edgar/data/1692819/000114036126036415/logo_vistra.jpg |
+| `walmart.png` | https://corporate.walmart.com/content/dam/corporate/site-images/WMT-Wordmark-New-Small-Black_RGB.svg |
+| `wellington.png` | https://www.wellington.com/content/dam/wellington/global/icons/logo.svg |
+| `wmb.png` | https://www.williams.com/wp-content/uploads/sites/14/2019/11/williams-logo@2x.png |
