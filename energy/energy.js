@@ -363,7 +363,7 @@ function renderComparison(companies, changeCompany) {
     const currency = latest?.currency || company.currency || 'USD';
     const scenario = company.valuation?.scenarios?.base;
     return [
-      button, company.name, company.segment || '—',
+      button, identity(company.name, company.logo), company.segment || '—',
       latest?.period ?? '—',
       currency,
       format(latest?.revenueB),
