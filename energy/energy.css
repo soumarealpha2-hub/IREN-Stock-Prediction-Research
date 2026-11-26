@@ -102,4 +102,5 @@ tbody th { background: white; }
 }
 
 /* Ensure the light GE Vernova wordmark contrasts with white tables. */
-.identity img[src$="/gev.png"] { filter: brightness(0) saturate(100%); }
+.identity img[src$="/gev.png"],
+.identity img[src$="/oklo.png"] { filter: brightness(0) saturate(100%); }
