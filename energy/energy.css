@@ -100,3 +100,6 @@ tbody th { background: white; }
   .select-label, .select-label select, .select-label input { max-width: 100%; }
   #energy-deal-filter { max-width: 75vw; }
 }
+
+/* Ensure the light GE Vernova wordmark contrasts with white tables. */
+.identity img[src$="/gev.png"] { filter: brightness(0) saturate(100%); }
