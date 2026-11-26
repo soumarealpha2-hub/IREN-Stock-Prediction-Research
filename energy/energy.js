@@ -77,6 +77,22 @@ function identity(name, logo, heading = 'span') {
   return brand;
 }
 
+function counterpartyIdentity(name, logo) {
+  const brand = identity(name, logo);
+  const label = brand.querySelector('span');
+  const images = [...brand.querySelectorAll('img')];
+  const loaded = new Set();
+  const sync = () => { label.hidden = loaded.size > 0; };
+  for (const image of images) {
+    image.alt = name;
+    image.addEventListener('load', () => { loaded.add(image); sync(); });
+    image.addEventListener('error', () => { loaded.delete(image); sync(); });
+    if (image.complete && image.naturalWidth > 0) loaded.add(image);
+  }
+  sync();
+  return brand;
+}
+
 function topic(title, body, sources = []) {
   return element('article', { className: 'topic' }, [
     element('h3', { text: title }),
@@ -301,7 +317,7 @@ function renderContracts(contracts) {
   }
   target.replaceChildren(element('div', { className: 'contract-list' }, contracts.map(deal =>
     element('article', { className: 'topic' }, [
-      identity(deal.customer, deal.logos || deal.logo),
+      counterpartyIdentity(deal.customer, deal.logos || deal.logo),
       element('h4', { text: deal.title }),
       element('p', { className: 'deal-status', text: [deal.status, deal.announcementDate].filter(Boolean).join(' · ') }),
       element('dl', {}, Object.entries(dealFields).flatMap(([key, heading]) => [
@@ -384,7 +400,7 @@ function renderDealDatabase(contracts, filter) {
   const rows = Object.entries(contracts).flatMap(([ticker, deals]) => deals.filter(deal =>
     [ticker, deal.customer, deal.title, deal.status].some(value => value?.toLowerCase().includes(needle))
   ).map(deal => [
-    ticker, identity(deal.customer, deal.logos || deal.logo), deal.title, deal.status, deal.capacity || missing,
+    ticker, counterpartyIdentity(deal.customer, deal.logos || deal.logo), deal.title, deal.status, deal.capacity || missing,
     deal.value || missing, deal.duration || missing, deal.expiration || missing,
     deal.expectedRevenue || missing, deal.timeline || missing, sourceLink(deal.source),
   ]));
