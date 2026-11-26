@@ -336,7 +336,7 @@ function renderOwnership(ownership, ownershipNotes) {
   }
   const sortedHolders = [...ownership].sort((a, b) => (b.shares ?? -1) - (a.shares ?? -1));
   const rows = sortedHolders.map(holder => [
-    identity(holder.manager, holder.logo),
+    counterpartyIdentity(holder.manager, holder.logo),
     format(holder.shares, whole),
     Number.isFinite(holder.ownershipPct) ? number.format(holder.ownershipPct) + '%' : '—',
     format(holder.reportedValue, reportedUsd),
